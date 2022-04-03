@@ -5,7 +5,7 @@ disableToc: true
 
 The name's Quang. I'm living in Binh Chanh, HCMC with my wife and two sons 👶.
 
-🏠 Homepage: https://dqnotes.com
+🏠 Homepage: [dqnotes.com](https://dqnotes.com)
 
 🎬 Here's my (somewhat active) [Youtube channel](https://www.youtube.com/channel/UCwHp8yAjMRmiPY9wnnW2GQQ).
 
