@@ -1,30 +1,21 @@
 ---
 title: 🌱 dqnotes
+disableToc: true
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+This is my little digital garden.
 
-1. Extremely fast full-text search by pressing `Ctrl` + `k`
-2. Customizable and hackable design based on Hugo
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]]
-5. Support for both Markdown Links and Wikilinks
+## Some info
 
-## Get Tested
+The name's Quang. I'm living in Binh Chanh, HCMC with my wife and two sons 👶.
 
-> 📚 [Setup your own digital garden using Quartz](notes/setup.md)
+🏠 Homepage: https://dqnotes.com
 
-Not convinced yet? Look at some [community digital gardens](notes/showcase.md) built with Quartz, or read about [why I made Quartz](notes/philosophy.md) to begin with.
+🎬 Here's my (somewhat active) [Youtube channel](https://www.youtube.com/channel/UCwHp8yAjMRmiPY9wnnW2GQQ).
 
-## Content Lists
+✍️ I wrote (and intend to write more) about IELTS on [ai-eo.com](https://ai-eo.com) in Vietnamese.
 
-If you prefer browsing the contents of this site through a list instead of a graph, you can find content lists here too:
+🔨 And I just made an IELTS study tool for my students at [thatieltsguide.com](https://thatieltsguide.com).
 
-- [All Notes](/notes)
-- [Setup-related Notes](/tags/setup)
+📋 And here's my [[notes/cv|résumé]].
 
-## Troubleshooting
-
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
