@@ -23,7 +23,7 @@ Great, now that you have your Obsidian linked to your Quartz, let's fix some set
 1. Under Options > Files and Links, set the New link format to always be Absolute Path in Vault.
 2. Go to Settings > Files & Links > Turn "on" automatically update internal links.
 
-![Obsidian Settings](../images/obsidian-settings.png)_Obsidian Settings_
+![Obsidian Settings](notes/images/obsidian-settings.png)_Obsidian Settings_
 
 ## Templates
 
