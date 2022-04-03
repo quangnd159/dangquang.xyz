@@ -3,10 +3,6 @@ title: 🌱 dqnotes
 disableToc: true
 ---
 
-This is my little digital garden.
-
-## Some info
-
 The name's Quang. I'm living in Binh Chanh, HCMC with my wife and two sons 👶.
 
 🏠 Homepage: https://dqnotes.com
@@ -18,4 +14,3 @@ The name's Quang. I'm living in Binh Chanh, HCMC with my wife and two sons 👶.
 🔨 And I just made an IELTS study tool for my students at [thatieltsguide.com](https://thatieltsguide.com).
 
 📋 And here's my [[notes/cv|résumé]].
-
