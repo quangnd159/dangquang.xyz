@@ -3,7 +3,7 @@ title: 🌱 dqnotes
 disableToc: true
 ---
 
-The name's Quang. I'm living in Binh Chanh, HCMC with my wife and two sons 👶.
+The name's Quang. I'm living in Binh Chanh, HCMC with my wife and two sons 👶. In my free time I like learning stuff, reading books, drawing, and tinkering with my life.
 
 🏠 Homepage: [dqnotes.com](https://dqnotes.com)
 
@@ -11,6 +11,7 @@ The name's Quang. I'm living in Binh Chanh, HCMC with my wife and two sons 👶.
 
 ✍️ I wrote (and intend to write more) about IELTS on [ai-eo.com](https://ai-eo.com) in Vietnamese.
 
-🔨 And I just made an IELTS study tool for my students at [thatieltsguide.com](https://thatieltsguide.com).
+🔨 I just made an IELTS study tool for my students at [thatieltsguide.com](https://thatieltsguide.com).
 
 📋 And here's my [[notes/cv|résumé]].
+
