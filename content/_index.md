@@ -14,4 +14,3 @@ The name's Quang. I'm living in Binh Chanh, HCMC with my wife and two sons 👶.
 🔨 I just made an IELTS study tool for my students at [thatieltsguide.com](https://thatieltsguide.com).
 
 📋 And here's my [[notes/cv|résumé]].
-
