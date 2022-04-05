@@ -3,4 +3,4 @@ title: My drawing
 disableToc: true
 ---
 
-{{< foldergallery src="drawing" >}}
+{{< image-gallery gallery_dir="album" >}}

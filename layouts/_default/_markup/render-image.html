@@ -3,6 +3,6 @@
 {{- if $external -}}
 <img src="{{ $src }}" alt="{{ .Text }}" {{ with .Title }} title="{{ . }}" {{ end }} />
 {{- else -}}
-{{$fixedUrl := (cond (hasPrefix $src "") $src (print "/" $src)) | urlize}}
+{{$fixedUrl := (cond (hasPrefix $src "/") $src (print "/" $src)) | urlize}}
 <img src="{{ $fixedUrl }}" alt="{{ .Text }}" {{ with .Title }} title="{{ . }}" {{ end }} />
 {{- end -}}
