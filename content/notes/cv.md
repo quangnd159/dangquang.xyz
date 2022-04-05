@@ -2,13 +2,14 @@
 title: 📋 Résumé
 disableToc: false
 ---
+
 ## Contact information
 
 - Name: Nguyễn Đăng Quang
-- Address:	13B Nguyen Van Linh, Phong Phu, Binh Chanh, HCMC, Vietnam
+- Address: 13B Nguyen Van Linh, Phong Phu, Binh Chanh, HCMC, Vietnam
 - Mobile: (+84) 909 332 601
 - Email: quangnd159@gmail.com
-- Website	dqnotes.com | ai-eo.com
+- Website dqnotes.com | ai-eo.com
 
 ## Interests
 
