@@ -12,7 +12,7 @@ In the final analysis, however, aren't we all reading the same book? My six-year
 
 Now, a Kindle can hold many books. My Kindle Paperwhite has a storage of 8 gigabytes and thus can hold up to 6000 books, more than what I can read over a lifetime. Let's say a person reads from the age of 7 nonstop, one book a week, to 80. That's 3,276 books.
 
-![Kindles](/../assets/my-kindles.jpeg "Kindles")
+![Kindles](/images/my-kindles.jpeg)
 
 How do I get books on my Kindle? That's easy. I have the world's library at my fingertip — the Amazon Kindle Store. There I can essentially buy 99% of the items on my reading list, many cheaper than their physical counterparts. Just a few touches and there comes the book. We as millennials tend to take things for granted, but this is practically magic. A poor soul a hundred years ago could only learn to be patient.
 
