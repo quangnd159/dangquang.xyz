@@ -1,6 +1,6 @@
 ---
 title: Little Envy
-disableToc: true
+enableToc: false
 date: 2021-09-09
 ---
 

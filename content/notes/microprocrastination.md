@@ -1,6 +1,6 @@
 ---
 title: Sneaky micro-procrastination
-disableToc: true
+enableToc: false
 date: 2021-09-11
 ---
 

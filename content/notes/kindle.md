@@ -1,6 +1,6 @@
 ---
 title: The Joy of Reading on the Kindle
-disableToc: true
+enableToc: false
 date: 2020-03-24
 ---
 

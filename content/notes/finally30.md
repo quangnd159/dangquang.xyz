@@ -1,6 +1,6 @@
 ---
 title: Finally 30
-disableToc: true
+enableToc: false
 date: 2020-09-15
 ---
 
@@ -42,7 +42,7 @@ The third, and most, important mind shift: Stoicism
 
 I don't remember exactly when I learned about Stoicism. It was probably in 2017, the year I read my first Stoic book – On the Shortness of Life by Seneca. Stoicism immediately hit me as my life philosophy, one that would guide me towards being a better person and a much more meaningful life.
 
-![Aurelius quote](../images/ess-marcus-aurelius-quote.png "Aurelius quote")
+![Aurelius quote](../images/ess-marcus-aurelius-quote.png 'Aurelius quote')
 
 Again, I want to emphasize that Stoicism must have come to me at the right time. I'm convinced that most young people will find it hard to believe (and accept) that there are things you have no control over whatsoever, and that we face our mortality every day. If I had been introduced to Stoicism when I was in the second year of college? Nah. I was the epitome of everything immature back then.
 

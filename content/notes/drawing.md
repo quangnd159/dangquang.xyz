@@ -1,4 +1,4 @@
 ---
 title: My drawing
-disableToc: true
+enableToc: false
 ---

@@ -1,6 +1,6 @@
 ---
 title: 📋 Résumé
-disableToc: false
+enableToc: false
 ---
 
 ## Contact information
