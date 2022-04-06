@@ -1,12 +1,15 @@
-name: Nguyễn Đăng Quang
+name: Jacky Zhao
 enableToc: true
 openToc: false
 enableLinkPreview: true
 enableLatex: true
-description: Quang's random notes
-page_title: '🌱 dqnotes'
-# links:
-#   - link_name: Twitter
-#     link: https://twitter.com/_jzhao
-#   - link_name: Github
-#     link: https://github.com/jackyzha0
+description:
+  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
+  Wikilink support, backlinks, local graph, tags, and link previews.
+page_title:
+  "🪴 Quartz 3.2"
+links:
+  - link_name: Twitter
+    link: https://twitter.com/_jzhao
+  - link_name: Github
+    link: https://github.com/jackyzha0
