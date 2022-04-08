@@ -1,5 +1,5 @@
 ---
-title: Little Envy
+title: Little envy
 enableToc: false
 date: 2021-09-09
 ---

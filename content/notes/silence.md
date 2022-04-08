@@ -1,5 +1,5 @@
 ---
-title: The Importance of Being Silent
+title: The importance of being silent
 enableToc: false
 date: 2020-04-04
 ---

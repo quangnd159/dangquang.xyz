@@ -1,5 +1,5 @@
 ---
-title: Old Friends
+title: Old friends
 enableToc: false
 date: 2020-03-11
 ---

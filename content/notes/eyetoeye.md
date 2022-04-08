@@ -1,5 +1,5 @@
 ---
-title: Eye to Eye
+title: Eye to eye
 enableToc: false
 date: 2020-03-11
 ---
