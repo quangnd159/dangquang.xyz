@@ -52,8 +52,36 @@
   --outlinegray: #3b2842 !important;
 }
 
-
 img {
   width: auto;
   max-width: 100%;
+}
+
+h1, h2, h3, h4, ol, ul, thead {
+  font-family: "JetBrains Mono";
+  color: var(--dark);
+  font-weight: revert;
+  margin: revert;
+  padding: revert;
+}
+
+p, ul, text, li, ol {
+  font-family: Spectral, sans-serif;
+  color: var(--gray);
+  fill: var(--gray);
+  font-size: 1.1rem;
+  font-weight: revert;
+  margin: revert;
+  padding: revert;
+}
+
+.mainTOC {
+  background-color: transparent;
+}
+
+.mainTOC details summary {
+  cursor: pointer;
+  font-family: "JetBrains Mono";
+  color: var(--dark);
+  font-weight: 700;
 }
