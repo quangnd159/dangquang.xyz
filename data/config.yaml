@@ -1,10 +1,10 @@
 name: Nguyễn Đăng Quang
 enableToc: true
-openToc: false
+openToc: true
 enableLinkPreview: true
 enableLatex: true
 description: Quang's random notes
-page_title: '🌱 dqnotes'
+page_title: 'dqnotes'
 # links:
 #   - link_name: Twitter
 #     link: https://twitter.com/_jzhao

@@ -1,5 +1,5 @@
 ---
-title: 🌱 dqnotes
+title: dqnotes
 disableToc: true
 ---
 
@@ -13,11 +13,17 @@ The name's Quang. I'm living in Binh Chanh, HCMC, with my wife and two sons 👶
 
 🔨 I just made an IELTS study tool for my students at [thatieltsguide.com](https://thatieltsguide.com).
 
-📋 And here's my [[notes/cv|résumé]].
+📋 And here's my [[m/cv|résumé]].
 
 ### Students' Corner 🪴
 
 If you're one of my IELTS students and are told to visit this place for some stuff, here it is.
 
-- GoldenDict for computers and Android devices
-- Dicty for iOS
+- [[p/dicty|Dicty for iOS]]
+- [[p/goldendict|GoldenDict for computers and Android devices]]
+
+### What I'm doing now ⌛️
+
+Building IELTS Writing and Speaking courses at [English House](https://ehc.edu.vn/).
+
+Teaching myself [Chinese](/c). Right now I'm working on my listening skill with 小猪佩奇 (Peppa Pig).

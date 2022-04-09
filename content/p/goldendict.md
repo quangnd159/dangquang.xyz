@@ -1,7 +1,7 @@
 ---
 title: Siêu từ điển offline cho mọi thiết bị
 date: 2020-08-12T17:13:36+07:00
-enableToc: false
+enableToc: true
 draft: false
 ---
 
@@ -28,8 +28,8 @@ Link tải về: [Dropbox][1]
 1. Tải file GoldenDict.zip về máy.
 2. Giải nén file GoldenDict.zip sẽ được một thư mục GoldenDict.
 3. Vào thư mục và chạy (double-click) biểu tượng GoldenDict (hình cuốn sách) và bắt đầu tra từ.
-   ![](../images/gd-03.png)*Khi tra từ, có thể bấm chuột phải vào khung chính để chọn từ điển muốn xem*
-   ![](../images/gd-01.png)*Có đầy đủ các hình ảnh và âm thanh (từ điển Longman có âm thanh cho cả các ví dụ).*
+   ![](../images/gd-03.png)_Khi tra từ, có thể bấm chuột phải vào khung chính để chọn từ điển muốn xem_
+   ![](../images/gd-01.png)_Có đầy đủ các hình ảnh và âm thanh (từ điển Longman có âm thanh cho cả các ví dụ)._
    ![](../images/gd.png)
 
 ## GoldenDict cho Android
@@ -70,7 +70,7 @@ Các bước thực hiện:
 
 ## Dicty cho iOS
 
-Làm theo hướng dẫn trong [[notes/dicty|video]] sau, chỉ một vài phút và hoàn toàn miễn phí.
+Làm theo hướng dẫn trong [[p/dicty|video]] sau, chỉ một vài phút và hoàn toàn miễn phí.
 
 [1]: https://www.dropbox.com/s/kew40s6xahgd574/GoldenDict.zip?dl=0
 [2]: https://play.google.com/store/apps/details?id=mobi.goldendict.android.free&hl=en
