@@ -1,7 +1,9 @@
 ---
-title: dqnotes
+title: 🪴dqnotes
 disableToc: true
 ---
+
+![](../images/logo.svg)
 
 The name's Quang. I'm living in Binh Chanh, HCMC, with my wife and two sons 👶. In my free time I like learning stuff, reading books, drawing, and tinkering with my life.
 
@@ -15,14 +17,14 @@ The name's Quang. I'm living in Binh Chanh, HCMC, with my wife and two sons 👶
 
 📋 And here's my [[m/cv|résumé]].
 
-### Students' Corner 🪴
+## Students' Corner 🪴
 
 If you're one of my IELTS students and are told to visit this place for some stuff, here it is.
 
 - [[p/dicty|Dicty for iOS]]
 - [[p/goldendict|GoldenDict for computers and Android devices]]
 
-### What I'm doing now ⌛️
+## What I'm doing now ⌛️
 
 Building IELTS Writing and Speaking courses at [English House](https://ehc.edu.vn/).
 

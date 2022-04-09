@@ -9,7 +9,7 @@ enableToc: false
 - Address: 13B Nguyen Van Linh, Phong Phu, Binh Chanh, HCMC, Vietnam
 - Mobile: (+84) 909 332 601
 - Email: quangnd159@gmail.com
-- Website dqnotes.com | ai-eo.com
+- Websites: [dqnotes.com](https://dqnotes.com) | [ai-eo.com](https://ai-eo.com)
 
 ## Interests
 

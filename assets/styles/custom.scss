@@ -43,7 +43,7 @@
 [saved-theme="dark"] {
   --light: #201624 !important;
   --dark: #faede1 !important;
-  --secondary: #77a3a0 !important;
+  --secondary: #7cb29a !important;
   --visited: #567d7b !important;
   --tertiary: #325452 !important;
   --primary: #bd6868 !important;
@@ -73,6 +73,11 @@ p, ul, text, li, ol {
   font-weight: revert;
   margin: revert;
   padding: revert;
+}
+
+article a {
+    font-family: 'Spectral';
+    font-weight: 600;
 }
 
 .mainTOC {
