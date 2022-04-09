@@ -5,7 +5,7 @@ disableToc: true
 
 The name's Quang. I'm living in Binh Chanh, HCMC, with my wife and two sons 👶. In my free time I like learning stuff, reading books, drawing, and tinkering with my life.
 
-🏠 Homepage: [dqnotes.com](https://dqnotes.com)
+🏠 This site is my third or fourth attempt at developing an online presence. Now that I've settled on storing my notes in text files, this is perhaps my permanent digital home.
 
 🎬 Here's my (somewhat active) [Youtube channel](https://www.youtube.com/channel/UCwHp8yAjMRmiPY9wnnW2GQQ). And [this](https://www.youtube.com/user/SuperEnglishbird) when I was young and wild.
 
