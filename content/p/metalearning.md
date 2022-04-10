@@ -34,7 +34,7 @@ Những câu hỏi trên lẽ ra nên được giải quyết bằng một môn 
 
 ## Một số ví dụ về meta-learning
 
-[**Hiệu ứng giãn cách (spacing effect)**](https://dqnotes.com/hoc/srs/): ôn bài giãn cách, những lần ôn bài sau cần được đẩy xa hơn về tương lai, vì thời điểm lý tưởng nhất để ôn bài là khi bạn sắp quên.
+[**Hiệu ứng giãn cách (spacing effect)**](https://dangquang.xyz/hoc/srs/): ôn bài giãn cách, những lần ôn bài sau cần được đẩy xa hơn về tương lai, vì thời điểm lý tưởng nhất để ôn bài là khi bạn sắp quên.
 
 **Tư duy tập trung và tư duy khuếch tán**: sau khi tập trung giải một bài toán mà không có kết quả, bạn nên ngưng suy nghĩ về bài toán đó và để đầu óc được thư giãn. Lúc này, tư duy phân tán được kích hoạt, sử dụng thêm một số tài nguyên của não bộ, và khả năng là câu trả lời sẽ bất ngờ đến với bạn. Nói một cách dễ hiểu, khi bạn tập trung, bạn thường đi theo lối mòn, tức là những phương pháp bạn đã thực hiện nhiều lần trước đây. Khi bạn để đầu óc thư giãn, vấn đề sẽ vẫn được giải quyết trong bộ não cho dù bạn không ý thức về nó, và thường thì kiểu tư duy này không bị hạn chế trong lối mòn mà mở rộng và phân tán hơn nhiều.
 
