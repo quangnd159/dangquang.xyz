@@ -1,5 +1,6 @@
 ---
 title: Dude vs. man
+tags: thoughts
 enableToc: false
 date: 2020-03-11
 lastmod: 2022-04-03

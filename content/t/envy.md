@@ -1,5 +1,6 @@
 ---
 title: Little envy
+tags: thoughts
 enableToc: false
 date: 2021-09-09
 ---

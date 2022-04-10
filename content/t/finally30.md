@@ -1,5 +1,6 @@
 ---
 title: Finally 30
+tags: thoughts
 enableToc: false
 date: 2020-09-15
 ---
