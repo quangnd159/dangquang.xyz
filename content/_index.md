@@ -1,5 +1,5 @@
 ---
-title: 🪴dqnotes
+title: 🪴dangquang.xyz
 disableToc: true
 ---
 
