@@ -12,7 +12,7 @@ Phương pháp Pomodoro được một Francesco Cirillo phát triển vào nh�
 
 Bài viết này nói về ứng dụng của phương pháp Pomodoro trong việc học.
 
-![](images/timer-unsplash.jpeg)*Bất cứ một chiếc đồng hồ bấm giờ nào cũng có thể giúp bạn học hiệu quả hơn.*
+![](../images/timer-unsplash.jpeg)_Bất cứ một chiếc đồng hồ bấm giờ nào cũng có thể giúp bạn học hiệu quả hơn._
 
 Phương pháp Pomodoro được thực hiện như sau:
 
