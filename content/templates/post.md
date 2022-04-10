@@ -1,4 +1,4 @@
 ---
 title: {{title}}
-disableToc: true
+enableToc: true
 ---

@@ -28,6 +28,6 @@ If you're one of my IELTS students and are told to visit this place for some stu
 
 Building IELTS Writing and Speaking courses at [English House](https://ehc.edu.vn/).
 
-Teaching myself [Chinese](/c). Right now I'm working on my listening skill with 小猪佩奇 (Peppa Pig).
+Teaching myself [Chinese](/c/learnchinese). Right now I'm working on my listening skill with 小猪佩奇 (Peppa Pig).
 
 [^1]: The old name is `dqnotes.com`.
