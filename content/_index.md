@@ -5,7 +5,7 @@ disableToc: true
 
 ![](../images/logo.svg)
 
-The name's Quang. I'm living in Binh Chanh, HCMC, with my wife and two sons 👶. In my free time I like learning stuff, reading books, drawing, and tinkering with my life.
+The name's Quang. I'm living in Binh Chanh, HCMC, with my wife and two sons 👶. In my free time I like learning stuff, reading books, [drawing](m/drawing), and tinkering with my life.
 
 🏠 This site is my third or fourth attempt at developing an online presence. Now that I've settled on storing my notes in text files, this is perhaps my permanent digital home. [^1]
 
