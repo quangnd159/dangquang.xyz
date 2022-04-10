@@ -30,5 +30,5 @@ enableGitInfo = true
         tabWidth = 4
 
 [params]
-  images = ['icon.png']
+  images = ['banner.png']
   title = '🪴dangquang.xyz'
