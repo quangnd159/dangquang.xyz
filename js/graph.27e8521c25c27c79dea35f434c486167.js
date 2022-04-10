@@ -1,41 +1,4 @@
 async function drawGraph(url, baseUrl, pathColors, depth, enableDrag, enableLegend, enableZoom) {
-
-  // My first idea was to fetch data form the content/.obsidian/graph.json
-  // to mimic the behaviour of the graph from obsidian using
-  // center force, repel force, link force, link distance
-  // but .obsidian is not in content by fetchData.
-  // modifying fetchData in /layouts/partials/head.html is out of my domain skills at the minute.
-  // Therfore, I will just add variables to modify the graph here.
-
-  // A possibilty could be use frontmatter of the _index page like :
-  // ---
-  //  title: "Title page"
-  //  scale : 1.5
-  //  repelForce : 3
-  //  centerForce : 1
-  //  linkForce : 1
-  //  linkDistance : 1
-  //  fontSize : "7px"
-  // ---
-  //
-  // and then we can access that with content[""].scale
-
-  // GRAPH VARIABLES
-
-  const scale = 1.5; // not used, could modify width ?
-  const repelForce = 3;
-  const centerForce = 1; // not used
-  const linkForce = 1; // not used
-  const linkDistance = 1 // not used
-
-  const fontSize = "7px";
-  const opacityNode = 0.7;
-
-  // could add variables for text position dx dy on node
-  // add varialbe for arrow, text-fade threshold, node size, link thickness,
-
-  // -------------------
-
   const { index, links, content } = await fetchData
   const curPage = url.replace(baseUrl, "")
 
@@ -111,7 +74,7 @@ async function drawGraph(url, baseUrl, pathColors, depth, enableDrag, enableLege
   const width = document.getElementById("graph-container").offsetWidth
 
   const simulation = d3.forceSimulation(data.nodes)
-    .force("charge", d3.forceManyBody().strength(-100 * repelForce))
+    .force("charge", d3.forceManyBody().strength(-30))
     .force("link", d3.forceLink(data.links).id(d => d.id))
     .force("center", d3.forceCenter());
 
@@ -119,9 +82,7 @@ async function drawGraph(url, baseUrl, pathColors, depth, enableDrag, enableLege
     .append('svg')
     .attr('width', width)
     .attr('height', height)
-    .attr("viewBox", [-width / 2, -height / 2, width, height])
-    .style("font-size", fontSize);
-
+    .attr("viewBox", [-width / 2, -height / 2, width, height]);
 
   if (enableLegend) {
     const legend = [
@@ -194,14 +155,15 @@ async function drawGraph(url, baseUrl, pathColors, depth, enableDrag, enableLege
       // show text for self
       d3.select(this.parentNode)
         .select("text")
-        // .raise()
-        // .transition()
-        // .duration(200)
+        .raise()
+        .transition()
+        .duration(200)
         .style("opacity", 1)
-        .style("font-size", "12px")
-        .style("font-family", "JetBrains Mono")
-    })
-    .on("mouseleave", function(_, d) {
+    }).on("mouseleave", function(_, d) {
+      d3.selectAll(".node")
+        .transition()
+        .duration(200)
+        .attr("fill", color)
 
       const currentId = d.id
       const linkNodes = d3.selectAll(".link").filter(d => d.source.id === currentId || d.target.id === currentId)
@@ -213,55 +175,20 @@ async function drawGraph(url, baseUrl, pathColors, depth, enableDrag, enableLege
 
       d3.select(this.parentNode)
         .select("text")
-        .raise()
         .transition()
         .duration(200)
-        .style("opacity", opacityNode)
-
-      d3.selectAll(".node")
-        .transition()
-        .duration(200)
-        .attr("fill", color)
-
+        .style("opacity", 0)
     })
     .call(drag(simulation));
 
   // draw labels
   const labels = graphNode.append("text")
-    .attr("dx", 8)
+    .attr("dx", 12)
     .attr("dy", ".35em")
     .text((d) => content[d.id]?.title || d.id.replace("-", " "))
     .style("opacity", 0)
     .style("pointer-events", "none")
-    .raise()
     .call(drag(simulation));
-
-  const labelsNew =  graphNode.append("text")
-    .attr("dx", 8)
-    .attr("dy", ".35em")
-    .text((d) => content[d.id]?.title || d.id.replace("-", " "))
-    .style("opacity", opacityNode)
-    .style("font-size", "12px")
-    .style("font-family", "JetBrains Mono")
-    // .clone(true).lower()
-    //   .attr("fill", "none")
-    //   .attr("stroke", "white")
-    //   .attr("stroke-width", 3);
-    .raise()
-    .call(drag(simulation));
-
-  // for testiing
-
-  // const test = svg
-  //     .append("text")
-  //     .style("font-size", "12px")
-  //     // .text("Test");
-  //     .text(content);
-
-  // console.log(content); // /.obsidian dosen't apear in content.
-  // console.log(content[]); // /.obsidian dosen't apear in content.
-  // console.log(content[""]); // /.obsidian dosen't apear in content.
-  // console.log(content[""].scale); // /.obsidian dosen't apear in content.
 
   // set panning
 
@@ -271,9 +198,8 @@ async function drawGraph(url, baseUrl, pathColors, depth, enableDrag, enableLege
       .scaleExtent([0.25, 4])
       .on("zoom", ({ transform }) => {
         link.attr("transform", transform);
+        node.attr("transform", transform);
         labels.attr("transform", transform);
-        labelsNew.attr("transform", transform);
-        node.attr("transform", transform).raise();
       }));
   }
 
@@ -284,16 +210,11 @@ async function drawGraph(url, baseUrl, pathColors, depth, enableDrag, enableLege
       .attr("y1", d => d.source.y)
       .attr("x2", d => d.target.x)
       .attr("y2", d => d.target.y)
-    labels
-      .attr("x", d => d.x)
-      .attr("y", d => d.y)
-    labelsNew
-      .attr("x", d => d.x)
-      .attr("y", d => d.y)
     node
       .attr("cx", d => d.x)
       .attr("cy", d => d.y)
-      .raise()
-
+    labels
+      .attr("x", d => d.x)
+      .attr("y", d => d.y)
   });
 }
