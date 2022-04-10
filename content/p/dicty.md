@@ -1,5 +1,6 @@
 ---
 title: Từ điển offline all-in-one cho iOS
+tags: articles
 date: 2020-07-31T17:35:53+07:00
 enableToc: false
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: Học 500 từ vựng trong 30 ngày
+tags: articles
 date: 2020-05-26T23:02:07+07:00
 enableToc: false
 draft: false

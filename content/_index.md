@@ -22,7 +22,7 @@ The name's Quang. I'm living in Binh Chanh, HCMC, with my wife and two sons 👶
 If you're one of my IELTS students and are told to visit this place for some stuff, here it is.
 
 - [[p/dicty|Dicty for iOS]]
-- [[p/goldendict|GoldenDict for computers and Android devices]]
+- [[p/goldendict|GoldenDict for Windows, macOS and Android]]
 
 ## What I'm doing now ⌛️
 

@@ -1,5 +1,6 @@
 ---
 title: Inbox Zero
+tags: articles
 date: 2020-08-12T17:32:34+07:00
 enableToc: false
 draft: false

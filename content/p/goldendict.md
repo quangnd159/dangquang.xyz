@@ -1,5 +1,6 @@
 ---
-title: Siêu từ điển offline cho mọi thiết bị
+title: Siêu từ điển offline
+tags: articles
 date: 2020-08-12T17:13:36+07:00
 enableToc: true
 draft: false

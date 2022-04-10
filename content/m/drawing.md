@@ -1,5 +1,6 @@
 ---
 title: My drawing
+tags: personal
 enableToc: false
 ---
 

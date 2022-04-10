@@ -1,5 +1,6 @@
 ---
 title: Zettelkasten
+tags: articles
 enableToc: false
 date: 2020-03-25T20:09:58+07:00
 draft: false

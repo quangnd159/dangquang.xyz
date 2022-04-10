@@ -1,5 +1,6 @@
 ---
 title: Pomodoro - học hiệu quả, giảm căng thẳng
+tags: articles
 date: 2020-08-12T17:46:06+07:00
 enableToc: false
 draft: false
@@ -10,7 +11,8 @@ draft: false
 Phương pháp Pomodoro được một Francesco Cirillo phát triển vào những năm cuối thập niên 80 nhằm giúp người ta quản lý thời gian. Phương pháp khá đơn giản: dùng một đồng hồ bấm giờ để chia một khối lượng công việc thành các quãng thời gian (25 phút), giữa các quãng này là thời gian nghỉ ngơi (5-15 phút).
 
 Bài viết này nói về ứng dụng của phương pháp Pomodoro trong việc học.
-{{< figure src="/img/timer-unsplash.jpeg" caption="Bất cứ một chiếc đồng hồ bấm giờ nào cũng có thể giúp bạn học hiệu quả hơn." >}}
+
+![](images/timer-unsplash.jpeg)*Bất cứ một chiếc đồng hồ bấm giờ nào cũng có thể giúp bạn học hiệu quả hơn.*
 
 Phương pháp Pomodoro được thực hiện như sau:
 

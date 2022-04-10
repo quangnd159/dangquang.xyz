@@ -1,5 +1,6 @@
 ---
 title: Học tử tế
+tags: articles
 date: 2020-05-15T21:27:37+07:00
 enableToc: false
 draft: false
