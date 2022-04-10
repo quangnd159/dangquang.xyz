@@ -1,5 +1,5 @@
 ---
-title: 🪴dangquang.xyz
+title: dangquang.xyz
 disableToc: true
 ---
 
