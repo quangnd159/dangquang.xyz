@@ -28,9 +28,9 @@ Link tải về: [Dropbox][1]
 1. Tải file GoldenDict.zip về máy.
 2. Giải nén file GoldenDict.zip sẽ được một thư mục GoldenDict.
 3. Vào thư mục và chạy (double-click) biểu tượng GoldenDict (hình cuốn sách) và bắt đầu tra từ.
-   ![](../images/gd-03.png)_Khi tra từ, có thể bấm chuột phải vào khung chính để chọn từ điển muốn xem_
-   ![](../images/gd-01.png)_Có đầy đủ các hình ảnh và âm thanh (từ điển Longman có âm thanh cho cả các ví dụ)._
-   ![](../images/gd.png)
+   ![](../../images/gd-03.png)_Khi tra từ, có thể bấm chuột phải vào khung chính để chọn từ điển muốn xem_
+   ![](../../images/gd-01.png)_Có đầy đủ các hình ảnh và âm thanh (từ điển Longman có âm thanh cho cả các ví dụ)._
+   ![](../../images/gd.png)
 
 ## GoldenDict cho Android
 
@@ -43,7 +43,7 @@ Sau khi cài đặt GoldenDict từ Google Play Store, trong bộ nhớ máy s�
 1. Kết nối thiết bị di động Android với máy tính Windows
 2. Vào thư mục GoldenDict đã giải nén của **phiên bản Windows**
 3. Vào tiếp thư mục có tên **content**, bạn sẽ thấy các gói từ điển như hình dưới
-   ![](../images/gd-data.png)
+   ![](../../images/gd-data.png)
 4. Sao chép các gói bạn muốn sử dụng vào thư mục GoldenDict nằm trong **bộ nhớ máy Android**
 5. Mở ứng dụng GoldenDict trên Android, bấm Proceed và đợi cho các gói từ điển được xử lý
 6. Lúc này bạn có thể sử dụng GoldenDict trên Android (bạn có thể tuỳ chỉnh thứ tự từ điển cũng như kích thước chữ trong phần Thiết lập của ứng dụng)
@@ -54,16 +54,16 @@ Các bước thực hiện:
 
 1. Tải GoldenDict cho macOS [tại đây][4] (dành cho hệ điều hành Sierra hoặc mới hơn)
 2. Mở tập tin vừa tải về sẽ có cửa sổ sau
-   ![](../images/gd-mac-01.png)
+   ![](../../images/gd-mac-01.png)
 3. Khi vẫn đang ở cửa sổ trên, bấm **Command N** để mở một cửa sổ mới
 4. Dùng chuột kéo GoldenDict và thả vào thư mục Applications
-   ![](../images/gd-mac-02.png)
+   ![](../../images/gd-mac-02.png)
 5. Trong thư mục Applications, bấm chuột phải lên GoldenDict và chọn Open, và bấm Open một lần nữa nếu có yêu cầu
-   ![](../images/gd-mac-03.png)
+   ![](../../images/gd-mac-03.png)
 6. Để nhập từ điển, sao chép thư mục **content** đã nhắc đến ở phần dành cho Android
 7. Thư mục content này bạn có thể đặt nó ở đâu cũng được
 8. Mở GoldenDict, chọn Edit trên menu và chọn Dictionaries...
-   ![](../images/gd-mac-04.png)
+   ![](../../images/gd-mac-04.png)
 9. Tiếp tục bấm Add... và chọn thư mục content mà bạn vừa sao chép ở trên
 10. Nhớ bấm chọn phần Recursive ✅, sau đó bấm OK và đợi cho GoldenDict xử lý dữ liệu
     Chúc mừng bạn đã hoàn tất việc cài đặt từ điển! 🎉
