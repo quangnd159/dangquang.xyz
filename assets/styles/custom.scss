@@ -90,3 +90,14 @@ article a {
   color: var(--dark);
   font-weight: 700;
 }
+
+.footnotes hr {
+  background-color: (var(--lightgray));
+  max-width: 400px;
+  margin-left: 0;
+  margin-bottom: 30px;
+}
+
+.footnotes p {
+  font-size: 0.9rem;
+}
