@@ -6,6 +6,8 @@ enableToc: true
 draft: false
 ---
 
+<mark>**Note**</mark>: Dù là cài đặt trên thiết bị nào, bạn cũng phải tải [GoldenDict.zip][1] và đọc kỹ hướng dẫn.
+
 ## GoldenDict cho máy Windows
 
 GoldenDict là một từ điển tổng hợp, bạn có thể tra cứu một lúc nhiều từ điển và tra trực tiếp trên tài liệu, rất tiện lợi cho việc học tiếng Anh. Bạn thậm chí có thể tự mình tìm thêm các từ điển khác, như tiếng Nhật, thuật ngữ chuyên ngành, để nhập vào GoldenDict miễn là gói từ điển đó được hỗ trợ (.ifo, .dict, .bgl, .dsl, .lsd, .ld2, .mdd,...) GoldenDict trong bài viết này có chứa các từ điển sau:
@@ -21,8 +23,6 @@ GoldenDict là một từ điển tổng hợp, bạn có thể tra cứu một 
 9. Webster’s Unabridged 3
 10. American Heritage Dictionary [New]
 11. LacViet EV-VE
-
-Link tải về: [Dropbox][1]
 
 **Hướng dẫn cài đặt**
 
