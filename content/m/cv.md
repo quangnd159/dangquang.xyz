@@ -11,7 +11,7 @@ enableToc: false
 
 ## Interests
 
-- Languages, books, [writing](/tags), digital painting, graphic design, personal knowledge management, programming languages
+- Languages, books, writing, digital painting, graphic design, personal knowledge management, programming languages
 
 ## Experience and qualifications
 

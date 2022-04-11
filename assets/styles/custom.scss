@@ -80,6 +80,20 @@ article a {
     font-weight: 600;
 }
 
+a {
+  font-family: 'JetBrains Mono',monospace;
+}
+
+.section h3>a {
+  font-weight: 700;
+  font-family: 'JetBrains Mono';
+  margin: 0;
+}
+
+.section p {
+  margin: 0.5em 0;
+}
+
 .mainTOC {
   background-color: transparent;
 }
