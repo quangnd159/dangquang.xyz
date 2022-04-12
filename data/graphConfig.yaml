@@ -3,7 +3,7 @@ enableDrag: true
 enableZoom: true
 depth: -1 # set to -1 to show full graph
 paths:
-  - /t: '#20c731'
-  - /m: '#2087c7'
-  - /c: '#c74420'
-  - /p: '#c7ab20'
+  - /t: '#82bf88'
+  - /m: '#749bb3'
+  - /c: '#ad786a'
+  - /p: '#baa577'
