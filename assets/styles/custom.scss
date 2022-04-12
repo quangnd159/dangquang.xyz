@@ -31,6 +31,7 @@
   --visited: #8db9b7;
   --primary: #e46262;
   --gray: #3a333d;
+  --grayer: #544d56;
   --lightgray: #e3deda;
   --outlinegray: #a8a39e;
 }
@@ -114,4 +115,10 @@ a {
 
 .footnotes p {
   font-size: 0.9rem;
+}
+
+.meta {
+  font-size: 0.8rem;
+  font-family: "JetBrains Mono";
+  line-height: 20pt;
 }
