@@ -5,7 +5,7 @@ date: 2022-03-13
 enableToc: false
 ---
 
-> He begins working calculus problems in his head as soon as he awakens. He did calculus while driving in his car, while sitting in the living room, and while lying in bed at night. — divorce complaint of [[Richard Feynman]]'s second wife
+> He begins working calculus problems in his head as soon as he awakens. He did calculus while driving in his car, while sitting in the living room, and while lying in bed at night. — divorce complaint of Richard Feynman's second wife
 
 Turned out I was quite wrong about goal setting and productivity. They work, but at a mediocre level, and they are boring. You set goal X, you plan out steps towards this X, and estimate the pace of progress required each day. Productivity makes you feel high, but the meh kind of high.
 
