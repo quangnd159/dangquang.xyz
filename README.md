@@ -1,3 +1,3 @@
-## Quang's digital garden 🪴
+## Quang's digital garden 🌱
 
 🔗 https://dangquang.xyz
