@@ -2,7 +2,7 @@
 title: Học 500 từ vựng trong 30 ngày
 tags: articles
 date: 2020-05-26T23:02:07+07:00
-enableToc: false
+enableToc: true
 draft: false
 ---
 
@@ -60,7 +60,7 @@ Một số ví dụ thực tế về ứng dụng của Anki:
 - [Học nhạc lý](https://fretboardanatomy.com/anki/) để chơi ghi-ta
 - Học viết [Kanji tiếng Nhật](https://www.fluentin3months.com/2k-kanji/) trong 3 tháng
 
-### Đọc thêm
+## Đọc thêm
 
 1. Learning How to Learn – Alistair McConville, Barbara Oakley, and Terry Sejnowski
 2. Ebbinghaus HE (1885) Memory: A Contribution to Experimental Psychology
