@@ -41,7 +41,7 @@ Vậy những ứng dụng SRS được nhắc đến ở trên là gì? Những
 - Khả năng cá nhân hoá cao (qua việc thay đổi loại thẻ học và hình thức của chúng)
 - Cộng đồng sử dụng lớn
 
-## Ứng dụng
+## Ứng dụng Anki
 
 Cũng như các ứng dụng SRS khác, Anki sử dụng thẻ học (flashcards) để quản lý kiến thức. Cách học với Anki rất đơn giản: đầu tiên, bạn cần tạo các thẻ học; sau đó, bạn sẽ học bằng cách nhìn mặt trước của thẻ và cố gắng nhớ được mặt sau; cuối cùng, bạn sẽ đánh giá độ khó của thẻ để Anki có thể sắp xếp lần ôn tập tiếp theo một cách hợp lý nhất.
 
@@ -59,6 +59,12 @@ Một số ví dụ thực tế về ứng dụng của Anki:
 - Anki còn được dùng để bổ trợ cho việc học các ngôn ngữ lập trình. Derek Sivers, nhà sáng lập CDBaby, diễn giả TED, tác giả cuốn Anything You Want, [sử dụng Anki trong việc học lập trình](https://sivers.org/srs)
 - [Học nhạc lý](https://fretboardanatomy.com/anki/) để chơi ghi-ta
 - Học viết [Kanji tiếng Nhật](https://www.fluentin3months.com/2k-kanji/) trong 3 tháng
+
+### Một vài hướng dẫn
+
+- [Cài đặt Anki trên Mac và các thiết bị](https://www.youtube.com/watch?v=QdbRvjhCFog)
+- [Hai nguyên tắc khi sử dụng Anki](https://www.youtube.com/watch?v=dbrQn1ye_Ik)
+- [Một số hướng dẫn cơ bản](https://www.youtube.com/watch?v=qW2SQDOhmTU)
 
 ## Đọc thêm
 
