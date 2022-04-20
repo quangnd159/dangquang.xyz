@@ -23,6 +23,7 @@ If you're one of my IELTS students and are told to visit this place for some stu
 
 - [[p/dicty|Dicty for iOS]]
 - [[p/goldendict|GoldenDict for Windows, macOS and Android]]
+- [[p/srs|Accelerate your language learning with SRS (Vietnamese)]]
 
 ## What I'm doing now ⌛️
 
