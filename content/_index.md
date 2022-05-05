@@ -7,13 +7,13 @@ disableToc: true
 
 The name's Quang. I'm living in Binh Chanh, HCMC, with my wife and two sons 👶. In my free time I like learning stuff, [thinking](tags/thoughts), [writing](/tags), reading books, [drawing](m/drawing), and tinkering with my life.
 
-🏠 This site is my third or fourth attempt at developing an online presence. Now that I've settled on storing my notes in text files, this is perhaps my permanent digital home. (The old name is `dqnotes.com`.)
+🏠 This site is my fourth attempt at developing an online presence. Now that I've settled on storing my notes in plain text files, this is perhaps my permanent digital home (fomerly `dqnotes.com`).
 
-🎬 Here's my (somewhat active) [Youtube channel](https://www.youtube.com/channel/UCwHp8yAjMRmiPY9wnnW2GQQ). And [this](https://www.youtube.com/user/SuperEnglishbird) when I was young and wild.
+🎬 Here's my (somewhat active) [Youtube channel](https://www.youtube.com/channel/UCwHp8yAjMRmiPY9wnnW2GQQ). Also [this one](https://www.youtube.com/user/SuperEnglishbird) when I was young and wild.
 
-✍️ I wrote (and intend to write more) about IELTS on [ai-eo.com](https://ai-eo.com) in Vietnamese.
+✍️ I've written IELTS-related stuff on [ai-eo.com](https://ai-eo.com) in Vietnamese.
 
-🔨 I just made an IELTS study tool for my students at [thatieltsguide.com](https://thatieltsguide.com).
+🔨 I'm working on an IELTS study tool called [That IELTS Guide](https://thatieltsguide.com) for my students.
 
 📋 And here's my [[m/cv|résumé]].
 
@@ -24,6 +24,7 @@ If you're one of my IELTS students and are told to visit this place for some stu
 - [[p/dicty|Dicty for iOS]]
 - [[p/goldendict|GoldenDict for Windows, macOS and Android]]
 - [[p/srs|Accelerate your language learning with SRS (Vietnamese)]]
+- [[eh|Classes at English House]]
 
 ## What I'm doing now ⌛️
 
