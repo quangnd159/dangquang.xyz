@@ -16,6 +16,25 @@
         {{partial "toc.html" .}} 
         {{partial "textprocessing.html" . }}
     </article>
+
+    <h2>Recent Thoughts</h2>
+        {{$notes := where .Site.RegularPages "Section" "t"}}
+        <ul>
+            {{range first 3 $notes }}
+            <li class="section-li">
+                <div class="section">
+                    <div class="desc">
+                        <h3><a href="{{ .Permalink }}">{{- .Title -}}</a></h3>
+                    </div>
+                    <p class="meta">
+                        {{.WordCount}} words. {{if ne .Date .Lastmod}}{{ .Lastmod.Format "January 2, 2006" }}{{else}}Unknown{{end}}
+                    </p>
+                </div>
+            </li>
+            {{end}}
+        </ul>
+        <a href="/t">See {{sub (len $notes) 3}} more →</a>
+
     {{partial "footer.html" .}}
     {{partial "popover.html" .}}
 </div>
