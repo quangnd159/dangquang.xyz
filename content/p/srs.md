@@ -14,7 +14,7 @@ Giả sử bạn học được 30 từ trong một tuần, thì sẽ mất 5 n�
 
 Hiệu ứng giãn cách được Herman Ebbinghaus, nhà tâm lý học người Đức, phát hiện và công bố trong cuốn sách về trí nhớ con người năm 1885. Ebbinghaus nhận thấy rằng khi một người không chủ động lưu giữ thông tin trong não bộ thì chúng sẽ tiêu biến dần. Chỉ sau vài ngày, chúng ta sẽ quên mất hơn một nửa lượng thông tin đã học. Nói cách khác thì thông tin bắt đầu “rơi rụng” khỏi não khi bạn đi bộ từ lớp học đến bãi đậu xe. Ebbinghaus gọi đây là đường cong quên lãng (forgetting curve): chỉ trong vài ba ngày, kiến thức đã học sẽ bị mai một.
 
-![](../images/the-forgetting-curve.png)_Hình lấy từ growthengineering.co.uk_
+![](/images/the-forgetting-curve.png)_Hình lấy từ growthengineering.co.uk_
 
 Theo Ebbinghaus, để thoát khỏi đường cong quên lãng, chúng ta cần ôn lại thông tin đã học. Những thời điểm ôn tập này nên được _dàn trải theo thời gian_. Ebbinghaus gọi đó là hiệu ứng giãn cách: càng về sau, các lần ôn tập nên được _giãn cách nhau xa hơn_; thí dụ, nếu lần ôn tập thứ ba cách lần thứ hai 3 ngày, thì lần ôn tập thứ tư nên cách lần ôn tập thứ năm 6 ngày.
 
@@ -47,7 +47,7 @@ Cũng như các ứng dụng SRS khác, Anki sử dụng thẻ học (flashcards
 
 Ở hình dưới, bạn có thể thấy một thẻ học tiếng Anh. Sau khi xem từ vựng ở mặt trước (vigorous) và học nghĩa ở mặt sau (strong and healthy), bạn sẽ đánh giá độ khó của thẻ (hay nói cách khác là mức độ nhớ của bạn): Again, Good, Easy. Tương ứng với các độ khó đó là khoảng cách đến lần ôn tập tiếp theo: 1 phút, 1 ngày, và 4 ngày. Lần sau gặp lại thẻ này, nếu bạn bấm Good, thì lần ôn tập tiếp theo sẽ được đẩy ra xa hơn. Còn nếu bạn bấm Again thì Anki sẽ sắp xếp lần ôn tập tiếp theo gần hơn, buộc chúng ta phải học lại từ vigorous một cách nghiêm túc. Với một hệ thống như vậy, bạn có thể tiết kiệm được rất nhiều thời gian, và cảm thấy yên tâm rằng lượng kiến thức sẽ dần được củng cố.
 
-![](../images/anki-scrshot.png)_Một kiểu thẻ học tối giản (bạn có thể thêm hình ảnh, âm thanh tuỳ thích)_
+![](/images/anki-scrshot.png)_Một kiểu thẻ học tối giản (bạn có thể thêm hình ảnh, âm thanh tuỳ thích)_
 
 Một khi bạn đã nắm cách sử dụng Anki, bạn có thể ứng dụng nó vào các môn học để hỗ trợ trí nhớ. Một số môn, ví dụ như môn Toán, sẽ khó áp dụng hơn, nhưng bạn nên nhớ một điều cơ bản: không hiểu vẫn có thể nhớ được, nhưng không nhớ thì không thể hiểu được. Có người nói, nếu bạn muốn thực sự cảm thụ được một bài thơ, trước hết hãy học thuộc nó đã. Đối với sinh viên ngành Y thì Anki thực sự là một giải pháp tuyệt vời. Đã có rất nhiều sinh viên Y trên thế giới sử dụng Anki, và đặc biệt có những người còn làm sẵn những bộ thẻ để giúp nhau học, nổi bật nhất là bộ [Brosencephalon.com — Brosencephalon Flashcard Decks & Collections](https://www.brosencephalon.com/flashcards) và bộ [Zanki (Original): medicalschoolanki](https://www.reddit.com/r/medicalschoolanki/comments/6cx6be/zanki_original/).
 
@@ -55,7 +55,7 @@ Một số ví dụ thực tế về ứng dụng của Anki:
 
 - Một số học sinh phổ thông ở Việt Nam đang sử dụng Anki để nhớ các công thức Hoá học
 - Anki được sử dụng để học Toán trong bài thi GMAT (xem ảnh chụp màn hình)
-  ![](../images/anki-gmat.png)_Ảnh chụp từ Facebook_
+  ![](/images/anki-gmat.png)_Ảnh chụp từ Facebook_
 - Anki còn được dùng để bổ trợ cho việc học các ngôn ngữ lập trình. Derek Sivers, nhà sáng lập CDBaby, diễn giả TED, tác giả cuốn Anything You Want, [sử dụng Anki trong việc học lập trình](https://sivers.org/srs)
 - [Học nhạc lý](https://fretboardanatomy.com/anki/) để chơi ghi-ta
 - Học viết [Kanji tiếng Nhật](https://www.fluentin3months.com/2k-kanji/) trong 3 tháng

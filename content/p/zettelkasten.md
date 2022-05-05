@@ -15,7 +15,7 @@ Làm sao ông ấy có thể viết nhiều đến như vậy, dù chỉ sử d�
 > Tôi không tự mình nghĩ ra mọi thứ.**...** Tôi làm việc năng suất chủ yếu là nhờ phương pháp Zettelkasten.  
 > — Niklas Luhmann
 
-![](../images/luhmann-zettelkasten.jpg)*Zettelkasten của Luhmann*
+![](/images/luhmann-zettelkasten.jpg)_Zettelkasten của Luhmann_
 
 ## Zettelkasten
 
@@ -27,7 +27,7 @@ Phương pháp biểu đồ tư duy có thể giúp thể hiện những mối l
 
 Bản thân việc phân loại cũng là một điểm yếu khác của các phương pháp truyền thống. Thứ nhất, khi các thông tin được sắp xếp vào các thư mục khác nhau, rất khó để chúng ta liên kết chúng lại. Thứ hai, đôi khi một thứ có thể thuộc về nhiều lĩnh vực khác nhau.
 
-![](../images/luhmann-zettel.jpg)*Ghi chép của Luhmann*
+![](/images/luhmann-zettel.jpg)_Ghi chép của Luhmann_
 
 Zettelkasten không sử dụng thư mục, cũng không phân loại theo cách truyền thống. Nó là một tập hợp các ghi chú được gắn thẻ (tag) và liên kết với nhau (link). Mỗi ghi chép được gắn một số định danh duy nhất để tiện tham khảo, ví dụ 202003161242 (năm 2020 tháng 03 ngày 16 12 giờ 42 phút).
 
