@@ -58,6 +58,13 @@ img {
   max-width: 100%;
 }
 
+img[src$='#floatright']
+{
+	float:right;
+  max-width: 30%;
+	height: auto;
+}
+
 h1, h2, h3, h4, ol, ul, thead {
   font-family: "JetBrains Mono";
   color: var(--dark);
