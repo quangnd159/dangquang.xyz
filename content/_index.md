@@ -21,10 +21,10 @@ The name's Quang. I'm living in Binh Chanh, HCMC, with my wife and two sons 👶
 
 If you're one of my IELTS students and are told to visit this place for some stuff, here it is.
 
-- [[p/dicty|Dicty for iOS]]
-- [[p/goldendict|GoldenDict for Windows, macOS and Android]]
-- [[p/srs|Accelerate your language learning with SRS (Vietnamese)]]
-- [[eh|Classes at English House]]
+- [Dicty for iOS](p/dicty.md)
+- [GoldenDict for Windows, macOS and Android](p/goldendict.md)
+- [Accelerate your language learning with SRS (Vietnamese)](p/srs.md)
+- [Classes at English House](eh.md)
 
 ## What I'm doing now ⌛️
 
