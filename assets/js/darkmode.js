@@ -1,4 +1,4 @@
-const userPref = 'light'
+const userPref = window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark'
 const currentTheme = localStorage.getItem('theme') ?? userPref
 
 if (currentTheme) {
