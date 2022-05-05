@@ -13,13 +13,12 @@
         {{partial "darkmode.html" .}}
     </header>
     <article>
-        <h1>{{.Title}}</h1>
+        <h1>All {{.Title}}</h1>
         {{partial "page-list.html" .Paginator.Pages.ByLastmod.Reverse }}
         {{ template "_internal/pagination.html" .}}
     </article>
     {{partial "contact.html" .}}
 </div>
-{{partial "popover.html" .}}
 </body>
 
 </html>

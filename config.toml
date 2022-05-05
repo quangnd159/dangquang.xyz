@@ -29,7 +29,6 @@ pluralizelisttitles = false
         lineNumbersInTable = true
         style = "dracula"
         tabWidth = 4
-
-[params]
-  images = ['banner.png']
-  title = '🪴dangquang.xyz'
+    [frontmatter]
+        lastmod = ["lastmod", ":git", "date", "publishDate"]
+        publishDate = ["publishDate", "date"]

@@ -1,8 +1,10 @@
 name: Nguyễn Đăng Quang
 enableToc: true
-openToc: true
+openToc: false
 enableLinkPreview: true
 enableLatex: true
+enableSPA: true
+enableContextualBacklinks: true
 description: Quang's random (possibly useful) notes
 page_title: 'dangquang.xyz'
 # links:
