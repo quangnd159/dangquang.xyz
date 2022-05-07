@@ -1,5 +1,6 @@
 ---
-title: Old friends
+title: Old Friends
+tags: thoughts
 enableToc: false
 date: 2020-03-11
 ---

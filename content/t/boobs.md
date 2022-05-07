@@ -1,5 +1,5 @@
 ---
-title: On my biggest boobs
+title: On My Biggest Boobs
 tags: thoughts
 enableToc: false
 date: 2020-03-24
