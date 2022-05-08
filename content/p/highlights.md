@@ -7,7 +7,9 @@ enableToc: false
 
 "And the whole earth a mere point in space." —_Marcus Aurelius, Meditations_
 
-"For we are mistaken when we look forward to death; the major portion of death has already passed. Whatever years be behind us are in death’s hands." —_Lucius Annaeus Seneca, Richard Mott Gummere (Translator), Seneca's Letters From a Stoic_
+![](images/earth.png)
+
+"For we are mistaken when we look forward to [death](t/death); the major portion of death has already passed. Whatever years be behind us are in death’s hands." —_Lucius Annaeus Seneca, Richard Mott Gummere (Translator), Seneca's Letters From a Stoic_
 
 "Our egos are constructed in our formative years—our first two decades. They get constructed by our environment, our parents, society. Then, we spend the rest of our life trying to make our ego happy. We interpret anything new through our ego: “How do I change the external world to make it more how I would like it to be?”" —_Eric Jorgenson, Jack Butcher, and Tim Ferriss, The Almanack of Naval Ravikant_
 
