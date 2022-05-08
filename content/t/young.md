@@ -7,7 +7,7 @@ enableToc: false
 
 Giving advice is often a foolish act, even more so when not asked for. But anyway, here are several random things I think young people should know and do.
 
-Of course I did not do most of the things below when I was younger. Think of them as things I wish I had done when I was younger.
+Of course I did not do most of the things below when I was still a spring chicken. Think of them as things I wish I had done when I was younger.
 
 1. Read books. Read anything you want at first. Build a habit. Once you've got into the reading groove, try reading something new: new topic, new genre.
 2. Write. Keep a [journal](envy). Write down your thoughts. Anything. Your older self will thank you for this.
