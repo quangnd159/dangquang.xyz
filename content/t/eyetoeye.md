@@ -1,5 +1,5 @@
 ---
-title: Eye to eye
+title: Eye to Eye
 tags: thoughts
 enableToc: false
 date: 2020-03-11

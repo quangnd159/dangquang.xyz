@@ -1,5 +1,6 @@
 ---
-title: Sneaky micro-procrastination
+title: Sneaky Micro-procrastination
+tags: thoughts
 enableToc: false
 date: 2021-09-11
 ---

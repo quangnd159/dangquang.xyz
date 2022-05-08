@@ -1,5 +1,5 @@
 ---
-title: Dude vs. man
+title: Dude vs. Man
 tags: thoughts
 enableToc: false
 date: 2020-03-11
