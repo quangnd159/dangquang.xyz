@@ -7,7 +7,7 @@ disableToc: true
 
 ## Feedback on Homework
 
-🌱 [B062](#)
+🌱 [B062](https://www.notion.so/quangnd/B062-10a4aff3c7874002a548fc3b04322e3c)
 
 🌱 [B063](#)
 
