@@ -1,6 +1,6 @@
 name: Nguyễn Đăng Quang
 enableToc: true
-openToc: false
+openToc: true
 enableLinkPreview: true
 enableLatex: true
 enableSPA: true
