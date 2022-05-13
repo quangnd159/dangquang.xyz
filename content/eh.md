@@ -13,6 +13,6 @@ disableToc: true
 
 🌱 [B064](https://quangnd.notion.site/B064-004cfdfb7b414d77a265579cc9d13108)
 
-🌱 [B066](#)
+🌱 [B066](https://www.notion.so/quangnd/B066-5678ea64e8594a00a6cf48862ab2dd7e)
 
 🌱 [B067](#)
