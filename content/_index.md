@@ -30,4 +30,6 @@ If you're one of my IELTS students and are told to visit this place for some stu
 
 Building IELTS Writing and Speaking courses at [English House](https://ehc.edu.vn/).
 
+Sometimes, on the spur of the moment, I resume my attempt to learn `JavaScript`. Here's a [paragraph planner](https://planner.thatieltsguide.com) web app I made in a fun weekend project.
+
 Teaching myself [Chinese](/c/learnchinese). Right now I'm working on my listening skill with 小猪佩奇 (Peppa Pig).
