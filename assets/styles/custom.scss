@@ -97,9 +97,7 @@ article a {
     font-weight: 600;
 }
 
-article a[href^="http"]::after,
-article a[href^="https://"]::after
-{
+article a:not([href*='https://dangquang.xyz']):not([href^='#']):not([href^='/']):after {
   content: "";
   width: 12px;
   height: 12px;
@@ -111,20 +109,20 @@ article a[href^="https://"]::after
   display: inline-block;
 }
 
-article a[href^="https://dangquang.xyz/tags/thoughts/"]::after
-{
-  display: none !important;
-}
+// article a[href^="https://dangquang.xyz/tags/thoughts/"]::after
+// {
+//   display: none !important;
+// }
 
-article a[href^="https://dangquang.xyz/tags/articles/"]::after
-{
-  display: none !important;
-}
+// article a[href^="https://dangquang.xyz/tags/articles/"]::after
+// {
+//   display: none !important;
+// }
 
-article a[href^="https://dangquang.xyz/tags/personal/"]::after
-{
-  display: none !important;
-}
+// article a[href^="https://dangquang.xyz/tags/personal/"]::after
+// {
+//   display: none !important;
+// }
 
 .section h3>a {
   font-weight: 700;
