@@ -84,6 +84,14 @@ p, ul, text, li, ol {
   padding: revert;
 }
 
+a {
+  font-family: 'JetBrains Mono',monospace;
+}
+
+article a.internal-link {
+  background-color: transparent;
+}
+
 article a {
     font-family: 'Spectral';
     font-weight: 600;
@@ -103,12 +111,19 @@ article a[href^="https://"]::after
   display: inline-block;
 }
 
-a {
-  font-family: 'JetBrains Mono',monospace;
+article a[href^="https://dangquang.xyz/tags/thoughts/"]::after
+{
+  display: none !important;
 }
 
-article a.internal-link {
-  background-color: transparent;
+article a[href^="https://dangquang.xyz/tags/articles/"]::after
+{
+  display: none !important;
+}
+
+article a[href^="https://dangquang.xyz/tags/personal/"]::after
+{
+  display: none !important;
 }
 
 .section h3>a {
