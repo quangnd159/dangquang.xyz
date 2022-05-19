@@ -1,5 +1,5 @@
 ---
-title: Classes at English House
+title: English House
 date: 2022-05-04
 lastmod: 2022-05-05
 disableToc: true
@@ -18,3 +18,9 @@ disableToc: true
 🌱 [B066](https://www.notion.so/quangnd/B066-5678ea64e8594a00a6cf48862ab2dd7e)
 
 🌱 [B067](https://www.notion.so/quangnd/B067-890fb1b501964701a7ba024d59f91072)
+
+<div class="wrapper">
+  <div class="typing-effect">
+    Practice makes perfect.
+  </div>
+</div>

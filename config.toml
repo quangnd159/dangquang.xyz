@@ -32,3 +32,6 @@ pluralizelisttitles = false
     [frontmatter]
         lastmod = ["lastmod", ":git", "date", "publishDate"]
         publishDate = ["publishDate", "date"]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
