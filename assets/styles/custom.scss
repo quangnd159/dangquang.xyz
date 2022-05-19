@@ -164,6 +164,7 @@ article a:not([href*='https://dangquang.xyz']):not([href^='#']):not([href^='/'])
   border-right: 3px solid;
   font-family: monospace;
   font-size: 1.5em;
+  color: var(--dark);
 }
 
 @keyframes typing {
