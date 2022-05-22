@@ -3,10 +3,12 @@ title: My 3rd IELTS
 tags: personal
 date: 2022-05-22
 lastmod: 2022-05-22
-enableToc: false
+enableToc: true
 ---
 
 Today (22 May 2022) I did my third IELTS exam (the first computer-delivered one). I took the test in 2014 (2nd time) at IDP and got 8.0 overall (L8, R8, W7, S8.5).
+
+## Preparation
 
 This time I had 20 days to prepare for the test. I did 3 listening tests online (scores ranging from 7-9) and 1-2 reading tests (8-9). Almost no prep for speaking though I did talk to myself a lot (as usual). However, I did tons of reading for the writing part: reading and analyzing high-level essays (I learned quite a lot from this.)
 
