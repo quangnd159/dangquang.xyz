@@ -43,7 +43,7 @@ I think I nailed this one. Not very hard. No matching headings. The highlighting
 
 I completed both tasks in 45 minutes and had 15 minutes to check them. But now I kind of regret that I didn't do much editing during those 15 minutes. Perhaps my mental resources were depleted at that point?
 
-In Task 1 I planned the report in roughly 5 minutes and wrote it in 15 minutes. In Task 2 I planned for 8 minutes and wrote the essay in 17 minutes.
+In Task 1, I planned the report in roughly 5 minutes and wrote it in 15 minutes. In Task 2, I planned for 8 minutes and wrote the essay in 17 minutes.
 
 - **Task 1**: The graph below gives information about the price of bananas in four countries between 1994 and 2004.
 - **My performance**: 271 words
