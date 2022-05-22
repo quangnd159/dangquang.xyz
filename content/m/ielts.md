@@ -20,7 +20,7 @@ This time I had 20 days to prepare for the test. I did 3 listening tests online 
 
 ### Listening
 
-I got a little distracted in Part 2 and Part 3 where there are multiple choice and matching questions. IELTS Listening is not a pure listening test. It also requires very good concentration.
+I got a little distracted in Part 2 and Part 3 where there are multiple choice and matching questions. IELTS Listening is funny. You zone out for a second and boom! you've missed an answer.
 
 - **Part 1**: Conversation between two friends about a job vacancy (waiter) at a restaurant
 - **Part 2**: Radio talk about Lakeview Orchestra and its new program
