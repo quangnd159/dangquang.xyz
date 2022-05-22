@@ -1,5 +1,6 @@
 ---
 title: Résumé
+tags: personal
 enableToc: false
 date: '2022-04-11'
 lastmod: '2022-04-12'
