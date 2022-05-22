@@ -14,6 +14,9 @@ This time I had 20 days to prepare for the test. I did 3 listening tests online 
 
 ## The test
 
+- **Test date**: 22 May 2022
+- **Location**: British Council (Viettel Complex Building 285 CMT8)
+
 ### Listening
 
 - **Part 1**: Conversation between two friends about a job vacancy (waiter) at a restaurant
