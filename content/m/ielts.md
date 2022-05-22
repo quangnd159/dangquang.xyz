@@ -16,8 +16,11 @@ This time I had 20 days to prepare for the test. I did 3 listening tests online 
 
 - **Test date**: 22 May 2022
 - **Location**: British Council (Viettel Complex Building 285 CMT8)
+- **Mode**: Computer-Delivered 🖥
 
 ### Listening
+
+I got a little distracted in Part 2 and Part 3 where there are multiple choice and matching questions. IELTS Listening is not a pure listening test. It also requires very good concentration.
 
 - **Part 1**: Conversation between two friends about a job vacancy (waiter) at a restaurant
 - **Part 2**: Radio talk about Lakeview Orchestra and its new program
@@ -27,6 +30,8 @@ This time I had 20 days to prepare for the test. I did 3 listening tests online 
 - **Expected score**: 8.0-8.5 (if I'm lucky)
 
 ### Reading
+
+I think I nailed this one. Not very hard. No matching headings. The highlighting function is definitely helpful. For reading, it's important that we know which question types follow the same order as the information in the text. That helps a lot.
 
 - **Passage 1**: Curran Judith - Documentary Film Maker
 - **Passage 2**: Being left-handed in a right-handed world
