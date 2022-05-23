@@ -20,7 +20,9 @@ This time I had 20 days to prepare for the test. I did 3 listening tests online 
 
 ### Listening
 
-I got a little distracted in Part 2 and Part 3 where there are multiple choice and matching questions. IELTS Listening is funny. You zone out for a second and boom! you've missed an answer.
+I got a little distracted in Part 2 and Part 3 where there are multiple choice and matching questions. IELTS Listening is funny. You zone out for a second and boom! you've missed an answer. This happened to me because the first two answers of the question set are put too close to one another in the recording.
+
+It's important to stay calm even when you've missed an answer and pay attention on the next signpost. Losing one answer is fine. You can go back to it at the end of that section to make an educated guess.
 
 - **Part 1**: Conversation between two friends about a job vacancy (waiter) at a restaurant
 - **Part 2**: Radio talk about Lakeview Orchestra and its new program
@@ -31,7 +33,7 @@ I got a little distracted in Part 2 and Part 3 where there are multiple choice a
 
 ### Reading
 
-I think I nailed this one. Not very hard. No matching headings. The highlighting function is definitely helpful. For reading, it's important that we know which question types follow the same order as the information in the text. That helps a lot.
+I think I nailed this one. Not very hard. No matching headings. The highlighting function is definitely helpful. For reading, it's important that we know which question types follow the same order as the information in the text. That helps a lot. Probably one of the reasons why I could complete the test 13 minutes early.
 
 - **Passage 1**: Curran Judith - Documentary Film Maker
 - **Passage 2**: Being left-handed in a right-handed world
