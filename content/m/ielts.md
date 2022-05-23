@@ -2,7 +2,7 @@
 title: My 3rd IELTS
 tags: personal
 date: 2022-05-22
-lastmod: 2022-05-22
+lastmod: 2022-05-23
 enableToc: true
 ---
 
@@ -63,3 +63,7 @@ To be honest I'm being too optimistic about my writing scores, but hey a man has
 - **Part 2**: A New Place
 - **My performance**: Not as good as I expected and I was quite nervous at the beginning
 - **Expected score**: Perhaps the same as 8 years ago (8.5)?
+
+## Results
+
+I received the results on... (to be updated)
