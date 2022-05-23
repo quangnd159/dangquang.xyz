@@ -59,6 +59,8 @@ To be honest I'm being too optimistic about my writing scores, but hey a man has
 
 ### Speaking
 
+My answer to Part 2 was cut off when I hadn't reached the juicy part yet and that makes me a little unsure about my performance. The rest of the test was fine, I guess. I did pay attention to the length of my answers, but most of the time I read the examiner's facial cues to determine whether I should continue speaking or just finish my response. Let's see how it would turn out.
+
 - **Part 1**: Work, Email, Cinema
 - **Part 2**: A New Place
 - **My performance**: Not as good as I expected and I was quite nervous at the beginning
