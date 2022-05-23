@@ -47,7 +47,7 @@ I completed both tasks in 45 minutes and had 15 minutes to check them. But now I
 
 In Task 1, I planned the report in roughly 5 minutes and wrote it in 15 minutes. In Task 2, I planned for 8 minutes and wrote the essay in 17 minutes.
 
-Part of the reason why I could write so fast is that my average typing speed is nearly 90 words per minute. That's immensely hugeful. I believe everyone should [learn to touch-type](/t/young.md). It's a valuable skill.
+Part of the reason why I could write so fast is that my average typing speed is nearly 90 words per minute. That's immensely useful. I believe everyone should [learn to touch-type](/t/young.md). It's a valuable skill.
 
 - **Task 1**: The graph below gives information about the price of bananas in four countries between 1994 and 2004.
 - **My performance**: 271 words
