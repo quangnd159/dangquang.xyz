@@ -28,15 +28,15 @@ Made simple [web sites](https://thatieltsguide.com)/[apps](https://planner.thati
 
 Taught IELTS programs at YOLA (2016 to 2020). Facilitated a practicum program for TEFL trainees here in cooperation with CIEE in 2016 and 2017.
 
-Taught English at HCMC University of Education – FLC Branch 2, primarily teaching TOEFL, IELTS, TOEIC and Conversation classes (2012 to 2016)
+Taught English at HCMC University of Education – FLC Branch 2, primarily teaching TOEFL, IELTS, TOEIC and Conversation classes (2012 to 2016).
 
-Worked as a program officer at SEAMEO Regional Center for Lifelong Learning (2014 to 2016)
+Worked as a program officer at SEAMEO Regional Center for Lifelong Learning (2014 to 2016).
 
-Designed logos, banners, standees, backdrops for HCMC University of Education – FLC Branch 2 and SEAMEO Regional Center for Lifelong Learning
+Designed logos, banners, standees, backdrops for HCMC University of Education – FLC Branch 2 and SEAMEO Regional Center for Lifelong Learning.
 
-Produced infographics for an international project “Towards a Lifelong Learning Agenda in Southeast Asian Countries”
+Produced infographics for an international project “Towards a Lifelong Learning Agenda in Southeast Asian Countries”.
 
-Made instructional videos on YouTube at [DQEnglish](https://www.youtube.com/user/SuperEnglishbird)
+Made instructional videos on YouTube at [DQEnglish](https://www.youtube.com/user/SuperEnglishbird).
 
 IELTS 8.0 (2014)
 
