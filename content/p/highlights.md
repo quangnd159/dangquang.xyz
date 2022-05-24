@@ -28,3 +28,5 @@ enableToc: false
 "Every angel is an asshole somewhere. Every asshole is an angel somewhere." —_Nassim Nicholas Taleb, The Bed of Procrustes_
 
 "All through his life he kept a journal. This book, he said, was his ‘Savings Bank.’ The thoughts thus received and garnered in his journals were indexed, and a great many of them appeared in his published works. They were religiously set down just as they came, in no order except chronological, but later they were grouped, enlarged or pruned, illustrated, worked into a lecture or discourse, and, after having in this capacity undergone repeated testing and rearranging, were finally carefully sifted and more rigidly pruned, and were printed as essays." —_Dr. Edward Emerson about his father_
+
+"In the complex world, the notion of 'cause' itself is suspect; it is either nearly impossible to detect or not really defined—another reason to ignore newspapers, with their constant supply of causes for things." —_Nassim Nicholas Taleb, Antifragile_
