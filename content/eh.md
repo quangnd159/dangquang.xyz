@@ -1,7 +1,5 @@
 ---
 title: English House
-date: 2022-05-04
-lastmod: 2022-05-05
 disableToc: true
 ---
 
