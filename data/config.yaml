@@ -5,6 +5,7 @@ enableLinkPreview: true
 enableLatex: true
 enableSPA: true
 enableContextualBacklinks: true
+enableRecentNotes: true
 description: Quang's random (possibly useful) notes
 page_title: 'dangquang.xyz'
 # links:
