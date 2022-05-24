@@ -147,6 +147,10 @@ article a:not([href*='https://dangquang.xyz']):not([href^='#']):not([href^='/'])
   line-height: 20pt;
 }
 
+article .meta {
+  opacity: .6;
+}
+
 // TYPING ANIMATION
 
 .wrapper {
