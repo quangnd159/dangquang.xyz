@@ -30,7 +30,7 @@ It's important to stay calm even when you've missed an answer and pay attention 
 - **Part 3**: Conversation between two students about their presentation on mercury contamination
 - **Part 4**: A lecture of human perception of smell
 - **My performance**: OK (missed one answer in Part 2 and had to guess based on what I thought I hadn’t heard) and 2 other answers I’m not 100% certain.
-- **Expected score**: 8.0-8.5 (if I'm lucky)
+- **Predicted score**: 8.0-8.5 (if I'm lucky)
 
 ### Reading
 
@@ -40,7 +40,7 @@ I think I nailed this one. Not very hard. No matching headings. The highlighting
 - **Passage 2**: Being left-handed in a right-handed world
 - **Passage 3**: Honeybees in trouble - can native bees fill the gap?
 - **My performance**: Good (had 13 minutes left to review every answer)
-- **Expected score**: 9.0
+- **Predicted score**: 9.0
 
 ### Writing
 
@@ -52,11 +52,11 @@ Part of the reason why I could write so fast is that my average typing speed is 
 
 - **Task 1**: The graph below gives information about the price of bananas in four countries between 1994 and 2004.
 - **My performance**: 271 words
-- **Expected score**: 9.0
+- **Predicted score**: 9.0
 
 - **Task 2**: Some people believe that women should play an equal role as men in a country's police force or military force, such as the army. Others think women are not suitable for these kinds of jobs. Discuss both these views and give your opinion.
 - **My performance**: 317 words
-- **Expected score**: 9.0
+- **Predicted score**: 9.0
 
 To be honest I'm being too optimistic about my writing scores, but hey a man has hopes. 😁
 
@@ -67,7 +67,7 @@ My answer to Part 2 was cut off when I hadn't reached the juicy part yet and tha
 - **Part 1**: Work, Email, Cinema
 - **Part 2**: A New Place
 - **My performance**: Not as good as I expected and I was quite nervous at the beginning
-- **Expected score**: Perhaps the same as 8 years ago (8.5)?
+- **Predicted score**: Perhaps the same as 8 years ago (8.5)?
 
 ## Results
 
