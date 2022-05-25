@@ -85,7 +85,7 @@ I handed the essay to a colleague and here's his feedback (which I love):
 - "fields of profession" is weird (Though I was reassured by a quick Google search—Perhaps it has also been used by some goofball like me?)
 - Maybe you jumped into examples too quickly instead of elaborating on the general concept first.
 
-Here's a paragraph he wrote—an excellent piece, clearly worthy of a 9. A solid one.
+Here's a paragraph he wrote—an excellent piece, clearly worthy of a 9.
 
 > Though it is preferable to have equal representation, female presence in the military should be encouraged, but never enforced through political means. Military has always historically been a male dominated profession, with women being only an insignificant minority. Even then, they were often delegated to non-combative roles – taking up the roles of medical support or left to handling logistics. The same could be said for women in the police force, as many hand-on duties (Patrolling or arresting) are more often than not, left completely in the hand of their male colleagues. The historical precedent for this is a simple one. Men are, by biological design, physically larger and stronger than their female counterpart, so are seen as more capable of handling tasks that require physical confrontation.
 
