@@ -38,7 +38,7 @@ Produced infographics for an international project “Towards a Lifelong Learnin
 
 Made instructional videos on YouTube at [DQEnglish](https://www.youtube.com/user/SuperEnglishbird).
 
-IELTS 8.0 (2014)
+[IELTS 8.5](/m/ielts.md) (2022)
 
 ## Education
 
