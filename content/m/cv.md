@@ -38,7 +38,7 @@ Produced infographics for an international project “Towards a Lifelong Learnin
 
 Made instructional videos on YouTube at [DQEnglish](https://www.youtube.com/user/SuperEnglishbird).
 
-[IELTS 8.5](/m/ielts.md) (2022) (Listening 9.0, Reading 9.0, Writing 7.5, Speaking 8.0)
+[IELTS 8.5](/m/ielts.md) (2022) (L 9.0, R 9.0, W 7.5, S 8.0)
 
 ## Education
 
