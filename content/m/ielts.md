@@ -76,6 +76,7 @@ Now, just for fun, here are my own comments on the essay:
 - The word "incumbent" is definitely unnatural. I made a mistake I always tell my students to avoid: _Do not use a word you're not sure how to use in the test._
 - I think I risked contradicting myself when I wrote "they can fight as hard as any man", though to be fair I did the phrase "in times of crises" to avoid over-generalization.
 - There are several parts I should have done differently. For example, I should have worded "biological differences" more specifically and written "thereby putting the public and the officers themselves in danger", among others.
+- I also suspect that I haven't elaborated quite enough. In the second body paragraph I should have added one more sentence as a conclusion.
 
 I handed the essay to a colleague and here's his feedback (which I love):
 
