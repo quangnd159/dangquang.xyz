@@ -102,4 +102,12 @@ My answer to Part 2 was cut off when I hadn't reached the juicy part yet and tha
 
 ## Results
 
-I received the results on... (to be updated)
+I received the results on May 26. Here it is.
+
+![](/images/ielts-bc-2022-05-26.png)
+
+Quite a disillusionment, to be honest. 😅 I thought my writing answers were very good, but oh well, apparently there's still much room for improvement, which is good. I knew my speaking performance was kind of meh, so 8.0 was fair, I suppose.
+
+Anyway, the wait is over, and I've learned quite a few lessons from the experience. The next step would be to use these lessons to improve the courses I'm developing.
+
+Until next time!
