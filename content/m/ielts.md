@@ -112,3 +112,11 @@ Quite a disillusionment, to be honest. 😅 I thought my writing answers were ve
 Anyway, the wait is over, and I've learned quite a few lessons from the experience. The next step would be to use these lessons to improve the courses I'm developing.
 
 Until next time!
+
+## Some thoughts
+
+After rereading my Task 1 report, I realize that it isn't as good as I thought it was. In fact, I made several silly mistakes. I didn't give the overview enough thought and though I got one feature right, I might have risked writing something that wasn't a good feature. IELTS marking is unforgiving and I didn't take it seriously enough.
+
+Also, I had just taught my students a trick (defining an abbreviation for a long unit of measurement) and my brain was completely fixated on that and I wrote something as silly as 1.80 dpk (dollars per kilogram) instead of $1.80/kg, which is of course much more natural. My oh my!
+
+Anyway, I learned a lesson here. I had 15 minutes to revise my report and essay but I didn't spend it productively. This should not happen again.
