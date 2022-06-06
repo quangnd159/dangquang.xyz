@@ -32,3 +32,5 @@ enableToc: false
 "In the complex world, the notion of 'cause' itself is suspect; it is either nearly impossible to detect or not really defined—another reason to ignore newspapers, with their constant supply of causes for things." —_Nassim Nicholas Taleb, Antifragile_
 
 ![](/images/snowman-with-dad.png)
+
+"I saw no cause for their unhappiness, but I was deeply affected by it. If such lovely creatures were miserable, it was less strange that I, an imperfect and solitary being, should be wretched. Yet why were these gentle beings unhappy? They possessed a delightful house (for such it was in my eyes) and every luxury; they had a fire to warm them when chill and delicious viands when hungry; they were dressed in excellent clothes; and, still more, they enjoyed one another's company and speech, interchanging each day looks of affection and kindness. What did their tears imply?" —_Mary Wollstonecraft Shelley, Frankenstein_
