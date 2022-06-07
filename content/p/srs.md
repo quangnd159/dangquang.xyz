@@ -6,6 +6,10 @@ enableToc: true
 draft: false
 ---
 
+**Dài quá hổng đọc**: Cách tốt nhất để ghi nhớ kiến thức là _ôn lại nó khi sắp quên_. Để làm điều này, bạn nên sử dụng một hệ thống có khả năng tính toán lần ôn tập tiếp theo một cách khoa học nhất. Anki là một app có thể giúp bạn làm điều đó. Xem một số hướng dẫn ở cuối bài.
+
+---
+
 Lượng từ vựng cần có để hiểu được tiếng Anh tự nhiên (không bị đơn giản hoá) là khoảng 8000 từ, theo Norbert Schmitt, University of Nottingham, UK.
 
 Giả sử bạn học được 30 từ trong một tuần, thì sẽ mất 5 năm để học được từng ấy. Đó là chưa kể thời gian ôn tập: chúng ta phải ôn lại khoảng 10 đến 16 lần cho mỗi từ thì mới nhớ được vĩnh viễn (theo nghiên cứu của Zahar R, Cobb T và Spada N năm 2001). Học theo lối truyền thống khó có thể cho bạn ngần ấy cơ hội ôn tập.
