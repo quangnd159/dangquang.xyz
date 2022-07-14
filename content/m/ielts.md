@@ -120,4 +120,3 @@ After rereading my Task 1 report, I realize that it isn't as good as I thought i
 Also, I had just taught my students a trick (defining an abbreviation for a long unit of measurement) and my brain was completely fixated on that and I wrote something as silly as 1.80 dpk (dollars per kilogram) instead of $1.80/kg, which is of course much more natural. My oh my!
 
 Anyway, I learned a lesson here. I had 15 minutes to revise my report and essay but I didn't spend it productively. This should not happen again.
-bc-2022-05-26.png]]
