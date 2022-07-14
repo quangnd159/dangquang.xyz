@@ -3,7 +3,7 @@ title: dangquang.xyz
 disableToc: true
 ---
 
-![[images/logo.svg]]
+![[images/logo.png#center]]
 
 The name's Quang. I'm living in Binh Chanh, HCMC, with my wife and two sons 👶. In my free time I like learning stuff, [thinking](tags/thoughts), [writing](/tags), reading [books](p/highlights) on my beloved [Kindle](t/kindle), [drawing](m/drawing), and tinkering with my life.
 
