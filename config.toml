@@ -1,7 +1,6 @@
 baseURL = "https://dangquang.xyz/"
 languageCode = "en-us"
 googleAnalytics = "G-XYFD95KB4J"
-pygmentsUseClasses = true
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
@@ -19,6 +18,7 @@ pluralizelisttitles = false
         ordered = true
         startLevel = 2
     [markup.highlight]
+        noClasses = false
         anchorLineNos = false
         codeFences = true
         guessSyntax = true
@@ -28,10 +28,8 @@ pluralizelisttitles = false
         lineNos = true
         lineNumbersInTable = true
         style = "dracula"
-        tabWidth = 4
     [frontmatter]
         lastmod = ["lastmod", ":git", "date", "publishDate"]
         publishDate = ["publishDate", "date"]
-    [markup.goldmark]
-        [markup.goldmark.renderer]
-            unsafe = true
+    [markup.goldmark.renderer]
+        unsafe = true

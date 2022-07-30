@@ -1,12 +1,17 @@
 name: Nguyễn Đăng Quang
 enableToc: true
-openToc: true
+openToc: false
 enableLinkPreview: true
 enableLatex: true
+enableCodeBlockTitle: true
+enableCodeBlockCopy: true
 enableSPA: true
+enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: true
-description: Quang's random (possibly useful) notes
+enableGitHubEdit: true
+GitHubLink: https://github.com/quangnd159/dangquang.xyz/tree/hugo/content
+description: Quang's random notes
 page_title: 'dangquang.xyz'
 # links:
 #   - link_name: Twitter
