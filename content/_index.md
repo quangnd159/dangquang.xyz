@@ -24,7 +24,7 @@ If you're one of my IELTS students and are told to visit this place for some stu
 - [Dicty for iOS](p/dicty.md)
 - [GoldenDict for Windows, macOS and Android](p/goldendict.md)
 - [Accelerate your language learning with SRS (Vietnamese)](p/srs.md)
-- [Classes at English House](eh.md)
+- [My IELTS Notes](https://ielts.dangquang.xyz)
 
 ## What I'm doing now ⌛️
 
