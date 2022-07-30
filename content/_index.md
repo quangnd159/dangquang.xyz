@@ -1,5 +1,5 @@
 ---
-title: dangquang.xyz
+title: quang
 disableToc: true
 ---
 
