@@ -12,7 +12,7 @@ Name: Nguyễn Đăng Quang
 
 Address: Nguyen Van Linh, Phong Phu, Binh Chanh, HCMC
 
-Websites: [dangquang.xyz](https://dangquang.xyz) | [ai-eo.com](https://ai-eo.com)
+Websites: [dangquang.xyz](https://dangquang.xyz)
 
 ## Interests
 

@@ -82,7 +82,7 @@ h1, h2, h3, h4, ol, ul, thead {
   padding: revert;
 }
 
-p {
+p, ul, text, tr, td, li, ol, ul {
   font-family: Spectral, sans-serif;
   color: var(--gray);
   fill: var(--gray);
@@ -158,6 +158,16 @@ article a:not([href*='https://dangquang.xyz']):not([href^='#']):not([href^='/'])
 
 article .meta {
   opacity: .6;
+}
+
+.section-li>.section p {
+  margin: 0;
+  padding-right: 1em;
+  flex-basis: 8em;
+}
+
+.section-li>.section {
+  display: block;
 }
 
 // TYPING ANIMATION
