@@ -93,6 +93,10 @@ p, ul, text, tr, td, li, ol, ul {
   padding: revert;
 }
 
+#page-title>a {
+  font-family: Newsreader;
+}
+
 a {
   font-family: 'JetBrains Mono',monospace;
 }
