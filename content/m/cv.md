@@ -16,9 +16,9 @@ Websites: [dangquang.xyz](https://dangquang.xyz)
 
 ## Interests
 
-Languages, books, writing, digital painting, graphic design, personal knowledge management, programming languages
+Languages, books, Stoicism, writing, digital painting, graphic design, personal knowledge management, programming languages
 
-## Experience and qualifications
+## Experience, qualifications and abilities
 
 ![[/images/eh-basic-textbook.jpeg#floatright]]
 
@@ -39,6 +39,10 @@ Produced infographics for an international project “Towards a Lifelong Learnin
 Made instructional videos on YouTube at [DQEnglish](https://www.youtube.com/user/SuperEnglishbird).
 
 [IELTS 8.5](/m/ielts.md) (2022) (L 9.0, R 9.0, W 7.5, S 8.0)
+
+Cut my own hair. 💇‍♂️
+
+Type at 85 words per minute on average (English).
 
 ## Education
 
