@@ -2,16 +2,17 @@
 title: My 3rd IELTS
 tags: personal
 date: 2022-05-22
-lastmod: 2022-05-26
+lastmod: 2022-08-13
 enableToc: true
-hidden: true
 ---
 
 Today (22 May 2022) I did my third IELTS exam (the first computer-delivered one). I took the test in 2014 (2nd time) at IDP and got 8.0 overall (L8, R8, W7, S8.5).
 
+Update (13 August 2022): I added "What I did" sections. Hope whoever reads this will learn something useful.
+
 ## Preparation
 
-This time I had 20 days to prepare for the test. I did 3 listening tests online (scores ranging from 7-9) and 1-2 reading tests (8-9). Almost no prep for speaking though I did talk to myself a lot (as usual). However, I did tons of reading for the writing part: reading and analyzing high-level essays (I learned quite a lot from this.)
+I did 3 listening tests online (scores ranging from 7-9) and 1-2 reading tests (8-9). Almost no prep for speaking though I did talk to myself a lot (as usual). However, I did tons of reading for the writing part: reading and analyzing high-level essays (I learned quite a lot from this.)
 
 ## The test
 
@@ -32,6 +33,14 @@ It's important to stay calm even when you've missed an answer and pay attention 
 - **My performance**: OK (missed one answer in Part 2 and had to guess based on what I thought I hadn’t heard) and 2 other answers I’m not 100% certain.
 - **Predicted score**: 8.0-8.5 (if I'm lucky)
 
+#### WHAT I DID
+
+So the only concern I have with this skill is I may lose concentration during the test, and this did happen. However, since I understood everything, I could anticipate when the answer for the next question was coming up.
+
+Only one wrinkle: sometimes you know the next segment, i.e. one that contains the next answer, is starting, but the answer is mentioned so early on and you may miss it. In other words, two adjacent answers are placed too close to one another. Beware of this problem.
+
+My advice for test takers? Doing practice tests is good, but most of the time you should work on improving your listening comprehension, i.e. your ability to understand spoken English. Listen to what you enjoy: vlogs, educational videos on YouTube, comedy sketches, documentaries (trust me, many of these are so good), movies, you name it.
+
 ### Reading
 
 I think I nailed this one. Not very hard. No matching headings. The highlighting function is definitely helpful. For reading, it's important that we know which question types follow the same order as the information in the text. That helps a lot. Probably one of the reasons why I could complete the test 13 minutes early.
@@ -41,6 +50,22 @@ I think I nailed this one. Not very hard. No matching headings. The highlighting
 - **Passage 3**: Honeybees in trouble - can native bees fill the gap?
 - **My performance**: Good (had 13 minutes left to review every answer)
 - **Predicted score**: 9.0
+
+#### WHAT I DID
+
+Again, understanding everything helps. But I did apply some strategies to complete the test faster. Here are two key strategies I used:
+
+1. **I always deal with easier questions first.** For example, I always work on gapfill (cloze) questions first. Those are easy, because you have so many clues: the job is to find a word (or words) from the text that fits into the question in terms of both grammar and meaning. What could be easier than that? And also, because of this strategy, I would always do "Matching information" last. Sometimes I can even get an answer from memory!
+2. **I know where to find the answer.** About half of the question types in reading share this feature: the questions are in the same order as the information in the text. This means that I would usually pick a question that contains an easy-to-scan keyword, find it, and answer it. Say it is question 6, I know I would have to read down to find the answer to question 7. And better yet, if I have found my answers to question 6 and 8, I know for sure the answer to question 7 must be in the text in between. You cannot miss it.
+
+   By the way, these question types are:
+
+   - Multiple choice type 1 (A, B, C, D)
+   - TRUE - FALSE - NOT GIVEN
+   - YES - NO - NOT GIVEN
+   - Matching sentence endings
+   - Sentence completion
+   - Short-answer questions
 
 ### Writing
 
