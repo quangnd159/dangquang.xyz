@@ -13,7 +13,7 @@ GoldenDict là một từ điển tổng hợp, bạn có thể tra cứu một 
 
 Xem hướng dẫn cài đặt để có những cuốn từ điển mới và đầy đủ nhất tại đây:
 
-{{< youtube R1dhOpqKkdQ >}}
+{{< youtube OxLeko535Yw >}}
 
 DOWNLOADS (Cũng có trong mô tả của video trên) 🌱
 
