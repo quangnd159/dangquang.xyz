@@ -73,21 +73,20 @@ Sẽ cập nhật video hướng dẫn...
 
 Các bước thực hiện:
 
-1. Tải GoldenDict cho macOS [tại đây][4] (dành cho hệ điều hành Sierra hoặc mới hơn)
+1. Tải GoldenDict cho macOS [tại đây](https://drive.google.com/open?id=1iOfwglTMKUQ1TC0DMHFNzPteDhcBhn51). Với Mac M1, tải [tại đây](https://www.dropbox.com/s/diqhx1fkl7nw0h0/6.3.1-GoldenDict_macos-11_370eb135.dmg?dl=0).
 2. Mở tập tin vừa tải về sẽ có cửa sổ sau
    ![](/images/gd-mac-01.png)
 3. Khi vẫn đang ở cửa sổ trên, bấm **Command N** để mở một cửa sổ mới
 4. Dùng chuột kéo GoldenDict và thả vào thư mục Applications
    ![](/images/gd-mac-02.png)
-5. Trong thư mục Applications, bấm chuột phải lên GoldenDict và chọn Open, và bấm Open một lần nữa nếu có yêu cầu
+5. QUAN TRỌNG: Trong thư mục Applications, **bấm chuột phải** lên GoldenDict và chọn Open, và bấm Open một lần nữa nếu có yêu cầu
    ![](/images/gd-mac-03.png)
-6. Để nhập từ điển, sao chép thư mục **content** đã nhắc đến ở phần dành cho Android
-7. Thư mục content này bạn có thể đặt nó ở đâu cũng được
-8. Mở GoldenDict, chọn Edit trên menu và chọn Dictionaries...
+6. Để nhập từ điển, cũng tải về bộ dữ liệu nói trên (bản đầy đủ hoặc thiết yếu) và giải nén
+7. Mở GoldenDict, chọn Edit trên menu và chọn Dictionaries...
    ![](/images/gd-mac-04.png)
-9. Tiếp tục bấm Add... và chọn thư mục content mà bạn vừa sao chép ở trên
-10. Nhớ bấm chọn phần Recursive ✅, sau đó bấm OK và đợi cho GoldenDict xử lý dữ liệu
-    Chúc mừng bạn đã hoàn tất việc cài đặt từ điển! 🎉
+8. Tiếp tục bấm Add... và chọn thư mục chứa từ điển vừa giải nén
+9. Tick ô Recursive ✅, sau đó bấm OK và đợi cho GoldenDict xử lý dữ liệu
+10. Còn vài thao tác, xem video dành cho Windows để hoàn tất (từ phút 3:55)
 
 ## Dicty cho iOS
 
@@ -96,4 +95,3 @@ Làm theo hướng dẫn trong [[p/dicty|video]] sau, chỉ một vài phút và
 [1]: https://www.dropbox.com/s/kew40s6xahgd574/GoldenDict.zip?dl=0
 [2]: https://play.google.com/store/apps/details?id=mobi.goldendict.android.free&hl=en
 [3]: https://play.google.com/store/apps/details?id=mobi.goldendict.android&hl=en
-[4]: https://drive.google.com/open?id=1iOfwglTMKUQ1TC0DMHFNzPteDhcBhn51
