@@ -7,7 +7,7 @@ enableToc: true
 draft: false
 ---
 
-GoldenDict là một từ điển tổng hợp, bạn có thể tra cứu một lúc nhiều từ điển và tra trực tiếp trên tài liệu, rất tiện lợi cho việc học tiếng Anh. Bạn thậm chí có thể tự mình tìm thêm các từ điển khác, như tiếng Nhật, thuật ngữ chuyên ngành, để nhập vào GoldenDict miễn là gói từ điển đó được hỗ trợ (.ifo, .dict, .bgl, .dsl, .lsd, .ld2, .mdd,...) GoldenDict trong bài viết này có chứa các từ điển sau:
+GoldenDict là một từ điển tổng hợp, bạn có thể tra cứu một lúc nhiều từ điển và tra trực tiếp trên tài liệu, rất tiện lợi cho việc học tiếng Anh. Bạn thậm chí có thể tự mình tìm thêm các từ điển khác, như tiếng Nhật, thuật ngữ chuyên ngành, để nhập vào GoldenDict miễn là gói từ điển đó được hỗ trợ (.ifo, .dict, .bgl, .dsl, .lsd, .ld2, .mdd,...)
 
 ## GoldenDict cho máy Windows
 
