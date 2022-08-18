@@ -1,37 +1,57 @@
 ---
 title: Siêu từ điển offline
 tags: articles
-date: 2020-08-12T17:13:36+07:00
+date: 2020-08-12
+lastmod: 2022-08-18
 enableToc: true
 draft: false
 ---
 
-<mark>**Note**</mark>: Dù là cài đặt trên thiết bị nào, bạn cũng phải tải [GoldenDict.zip][1] và đọc kỹ hướng dẫn.
+GoldenDict là một từ điển tổng hợp, bạn có thể tra cứu một lúc nhiều từ điển và tra trực tiếp trên tài liệu, rất tiện lợi cho việc học tiếng Anh. Bạn thậm chí có thể tự mình tìm thêm các từ điển khác, như tiếng Nhật, thuật ngữ chuyên ngành, để nhập vào GoldenDict miễn là gói từ điển đó được hỗ trợ (.ifo, .dict, .bgl, .dsl, .lsd, .ld2, .mdd,...) GoldenDict trong bài viết này có chứa các từ điển sau:
 
 ## GoldenDict cho máy Windows
 
-GoldenDict là một từ điển tổng hợp, bạn có thể tra cứu một lúc nhiều từ điển và tra trực tiếp trên tài liệu, rất tiện lợi cho việc học tiếng Anh. Bạn thậm chí có thể tự mình tìm thêm các từ điển khác, như tiếng Nhật, thuật ngữ chuyên ngành, để nhập vào GoldenDict miễn là gói từ điển đó được hỗ trợ (.ifo, .dict, .bgl, .dsl, .lsd, .ld2, .mdd,...) GoldenDict trong bài viết này có chứa các từ điển sau:
+Xem hướng dẫn cài đặt để có những cuốn từ điển mới và đầy đủ nhất tại đây:
 
-1. Oxford Advanced Learner’s Dictionary 9 [Updated]
-2. Oxford American Thesaurus
-3. Oxford Collocations 2nd Ed.
-4. Cambridge Advanced Learner’s Dictionary 4 [Updated]
-5. Longman Dictionary of Contemporary English 6 [Updated]
-6. Macmillan English Dictionary
-7. Macmillan English Thesaurus
-8. CollinsCobuild
-9. Webster’s Unabridged 3
-10. American Heritage Dictionary [New]
-11. LacViet EV-VE
+{{< youtube R1dhOpqKkdQ >}}
 
-**Hướng dẫn cài đặt**
+DOWNLOADS (Cũng có trong mô tả của video trên) 🌱
 
-1. Tải file GoldenDict.zip về máy.
-2. Giải nén file GoldenDict.zip sẽ được một thư mục GoldenDict.
-3. Vào thư mục và chạy (double-click) biểu tượng GoldenDict (hình cuốn sách) và bắt đầu tra từ.
-   ![](/images/gd-03.png)_Khi tra từ, có thể bấm chuột phải vào khung chính để chọn từ điển muốn xem_
-   ![](/images/gd-01.png)_Có đầy đủ các hình ảnh và âm thanh (từ điển Longman có âm thanh cho cả các ví dụ)._
-   ![](/images/gd.png)
+1. Bộ cài đặt ứng dụng
+   - [64 bit](https://tinyurl.com/gd64bit) (phổ biến nhất)
+   - [31 bit](https://tinyurl.com/gd32bit)
+2. Dữ liệu từ điển
+   - [All Dictionaries](https://tinyurl.com/fulldicts)
+     - Oxford Advanced Learner's Dictionary 10th
+     - Cambridge Advanced Learner's Dictionary, 4th Ed.(En-En)
+     - New Oxford American Dictionary, 3rd Edition_3
+     - Oxford American Writer‘s Thesaurus 2nd
+     - Oxford Collocations 2nd Ed. (En-En)
+     - Oxford American Thesaurus (En-En)
+     - Longman Dictionary of Contemporary English 6
+     - American Heritage Dictionary 4th Ed.
+     - Collins Cobuild
+     - Longman Common Errors
+     - Webster's Unabridged 3
+     - Collins COBUILD English Grammar
+     - Macmillan English Dictionary
+     - Macmillan English Thesaurus
+     - Longman Language Activator 2nd Ed.
+     - LacViet EV
+     - LacViet VE
+   - [Essential Dictionaries only](https://tinyurl.com/essdicts)
+     - Oxford Advanced Learner's Dictionary 8
+     - Cambridge Advanced Learner's Dictionary 3
+     - Oxford Collocations 2nd Ed. (En-En)
+     - Oxford American Thesaurus (En-En)
+     - Longman Dictionary of Contemporary English 5
+     - Longman Common Errors
+     - LacViet EV
+     - LacViet VE
+
+![](/images/gd-03.png)_Khi tra từ, có thể bấm chuột phải vào khung chính để chọn từ điển muốn xem_
+![](/images/gd-01.png)_Có đầy đủ các hình ảnh và âm thanh (từ điển Longman có âm thanh cho cả các ví dụ)._
+![](/images/gd.png)
 
 ## GoldenDict cho Android
 
@@ -42,14 +62,14 @@ Sau khi cài đặt GoldenDict từ Google Play Store, trong bộ nhớ máy s�
 Để nhập các gói từ điển, thực hiện các bước sau:
 
 1. Kết nối thiết bị di động Android với máy tính Windows
-2. Vào thư mục GoldenDict đã giải nén của **phiên bản Windows**
-3. Vào tiếp thư mục có tên **content**, bạn sẽ thấy các gói từ điển như hình dưới
-   ![](/images/gd-data.png)
-4. Sao chép các gói bạn muốn sử dụng vào thư mục GoldenDict nằm trong **bộ nhớ máy Android**
-5. Mở ứng dụng GoldenDict trên Android, bấm Proceed và đợi cho các gói từ điển được xử lý
-6. Lúc này bạn có thể sử dụng GoldenDict trên Android (bạn có thể tuỳ chỉnh thứ tự từ điển cũng như kích thước chữ trong phần Thiết lập của ứng dụng)
+2. Tải file `Essential Dictionaries.zip` và giải nén
+3. Sao chép các thư mục từ điển bạn muốn sử dụng vào thư mục GoldenDict nằm trong **bộ nhớ máy Android**
+4. Mở ứng dụng GoldenDict trên Android, bấm Proceed và đợi cho các gói từ điển được xử lý
+5. Lúc này bạn có thể sử dụng GoldenDict trên Android (bạn có thể tuỳ chỉnh thứ tự từ điển cũng như kích thước chữ trong phần Thiết lập của ứng dụng)
 
 ## GoldenDict cho macOS
+
+Sẽ cập nhật video hướng dẫn...
 
 Các bước thực hiện:
 
