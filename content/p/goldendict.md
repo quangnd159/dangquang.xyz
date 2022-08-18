@@ -55,7 +55,7 @@ DOWNLOADS (Cũng có trong mô tả của video trên) 🌱
 
 ## GoldenDict cho Android
 
-Có hai phiên bản cho Android, gồm [GoldenDict Free][2] và [GoldenDict Premium][3] (106.162đ vào thời điểm viết bài). Bản miễn phí có quảng cáo và giới hạn 5 từ điển.
+Có hai phiên bản cho Android, gồm [GoldenDict Free](https://play.google.com/store/apps/details?id=mobi.goldendict.android.free&hl=en) và [GoldenDict Premium](https://play.google.com/store/apps/details?id=mobi.goldendict.android&hl=en) (106.162đ vào thời điểm viết bài). Bản miễn phí có quảng cáo và giới hạn 5 từ điển.
 
 Sau khi cài đặt GoldenDict từ Google Play Store, trong bộ nhớ máy sẽ có sẵn một thư mục có tên GoldenDict. Nếu kiểm tra không có thư mục này, bạn hãy thử khởi động lại thiết bị.
 
@@ -91,7 +91,3 @@ Các bước thực hiện:
 ## Dicty cho iOS
 
 Làm theo hướng dẫn trong [[p/dicty|video]] sau, chỉ một vài phút và hoàn toàn miễn phí.
-
-[1]: https://www.dropbox.com/s/kew40s6xahgd574/GoldenDict.zip?dl=0
-[2]: https://play.google.com/store/apps/details?id=mobi.goldendict.android.free&hl=en
-[3]: https://play.google.com/store/apps/details?id=mobi.goldendict.android&hl=en
