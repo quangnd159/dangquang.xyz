@@ -11,7 +11,7 @@ The name's Quang. I'm living in Binh Chanh, HCMC, with my wife and two sons 👶
 
 🎬 Here's my (somewhat active) Youtube channel: [dangquang🌱](https://www.youtube.com/channel/UCwHp8yAjMRmiPY9wnnW2GQQ). Also this one, [DQEnglish](https://www.youtube.com/user/SuperEnglishbird), when I was young and wild.
 
-✍️ I wrote IELTS-related stuff on [ai-eo.com](https://ai-eo.com) in Vietnamese. But the site will be go offline soon. My notes on the exam will live [here](https://ielts.dangquang.xyz) instead.
+✍️ I wrote IELTS-related stuff [here](https://ielts.dangquang.xyz).
 
 🔨 I'm working on an IELTS study tool called [That IELTS Guide](https://thatieltsguide.com) for my students.
 
