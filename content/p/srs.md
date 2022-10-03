@@ -2,6 +2,7 @@
 title: Học 500 từ vựng trong 30 ngày
 tags: articles
 date: 2020-05-26
+lastmod: 2022-10-03
 enableToc: true
 draft: false
 ---
@@ -69,6 +70,7 @@ Một số ví dụ thực tế về ứng dụng của Anki:
 - [Cài đặt Anki trên Mac và các thiết bị](https://www.youtube.com/watch?v=QdbRvjhCFog)
 - [Hai nguyên tắc khi sử dụng Anki](https://www.youtube.com/watch?v=dbrQn1ye_Ik)
 - [Một số hướng dẫn cơ bản](https://www.youtube.com/watch?v=qW2SQDOhmTU)
+- [Bộ thẻ tôi tự tạo để học tên đồ vật trong tiếng Anh](https://www.dropbox.com/s/lx0oyi6xch64fiw/The%20Names%20of%20Things.apkg?dl=0)
 
 ## Đọc thêm
 
