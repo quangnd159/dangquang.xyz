@@ -11,7 +11,7 @@ And mind you, most of the time people don’t need advice. More common purposes 
 
 Giving and receiving advice turns out to be a wacko transaction peculiar to a species called homo sapiens.
 
-Speaking of superiority, I’d often find myself saying this: if I were in his shoes, I certainly wouldn’t have done that. Saying that is a boob, and the person saying that is yet a bigger boob. I’ve learned that putting myself in someone else’s shoes goes to an extent far beyond some specific circumstances.
+Speaking of superiority, I’d often find myself saying this: if I were in his shoes, I certainly wouldn’t have done that. Saying that is a [[t/boobs.md|boob]], and the person saying that is yet a bigger boob. I’ve learned that putting myself in someone else’s shoes goes to an extent far beyond some specific circumstances.
 
 What does it really mean to say if I were in his shoes?
 

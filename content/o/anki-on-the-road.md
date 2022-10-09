@@ -1,5 +1,5 @@
 ---
-title: Anki On the Road
+title: Anki on the Road
 date: 2022-04-19
 enableToc: false
 ---
