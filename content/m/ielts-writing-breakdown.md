@@ -6,7 +6,7 @@ enableToc: true
 openToc: true
 ---
 
-Read my experience with the whole test [here](/m/ielts.md).
+Read about my experience with the whole test [here](/m/ielts.md).
 
 So I've received the breakdown from British Council. I was quite shocked to find out that I received only 6 for every criterion in Task 1. 😳 Frankly, I thought my report was pretty good, save a few points I'll let you know below.
 
