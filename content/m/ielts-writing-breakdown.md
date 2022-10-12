@@ -80,7 +80,7 @@ Now, just for fun, here are my own comments on the essay (I wrote these right af
 - I think I risked contradicting myself when I wrote "they can fight as hard as any man", though to be fair I did the phrase "in times of crises" to avoid over-generalization.
 - There are several parts I should have done differently. For example, I should have worded "biological differences" more specifically and written "thereby putting the public and the officers themselves in danger", among others.
 
-I handed the essay to a colleage and here's his feedback (which I love):
+I handed the essay to a colleague and here's his feedback (which I love):
 
 - "Incumbent officers" is weird phrasing (confirmed!)
 - The second paragraph is weaker. (This is interesting because I myself think the first one is weaker.)
