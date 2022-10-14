@@ -10,6 +10,8 @@ enableToc: true
 
 As regards the breakdown of my writing score, I wrote a separate post [here](/m/ielts-writing-breakdown.md).
 
+To learn how to request your score breakdown, read [this](/p/breakdown-request.md).
+
 Today (22 May 2022) I did my third IELTS exam (the first computer-delivered one). I took the test in 2014 (2nd time) at IDP and got 8.0 overall (L8, R8, W7, S8.5).
 
 Update (13 August 2022): I added "What I did" sections. Hope whoever reads this will learn something useful.
