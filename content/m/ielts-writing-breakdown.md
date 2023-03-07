@@ -3,9 +3,10 @@ title: My Writing Score Breakdown
 tags: personal
 date: 2022-10-12
 enableToc: true
+openToc: true
 ---
 
-Read my experience with the whole test [here](ielts.md).
+Read about my experience with the whole test [here](/m/ielts.md).
 
 So I've received the breakdown from British Council. I was quite shocked to find out that I received only 6 for every criterion in Task 1. 😳 Frankly, I thought my report was pretty good, save a few points I'll let you know below.
 
@@ -28,7 +29,7 @@ My attempt to reproduce the report (perhaps 90% the same as the one I wrote in t
 > With regard to Japan, at the start of the period, a kilogram of banana cost about 1.7 dollars. After a peak of about 2.7 dollars per kilogram (dpk) in 1995, the price dropped and stayed at around 2 dpk until 2001, when it hit a low of just over 1.5 dkp, before finishing the period at exactly 2.5 dpk.
 >
 > The two European countries, France and Germany, on the other hand, showed similar trends, with both starting the period with more or less 1.5 dpk in 1994, and after some fluctuation, standing at about 1.6 dpk and 1.2 dpk respectively in 2002. In the remainder of the period, while banana prices in the latter stayed unchanged, those in the former dipped to 1 dpk in 2003, before recovering to just over 1.5 dpk at the end of the period.
-
+>
 > Finally, the banana price in the US rose from 0.7 dpk in 1994 to 1.2 dpk in 1995 and remained relatively stable over the rest of the period.
 
 (236 words)
@@ -41,15 +42,14 @@ Comments:
 
 Score breakdown from BC:
 
-| **TA** | **CC** | **LR** | **GRA** |
-| :----- | :----- | :----- | :------ |
-| 6      | 6      | 6      | 6       |
+![[images/t1-breakdown.jpg]]
 
 Now, if we look at the official public band descriptors, this means that I
 
-| **TA**                                                                                                                                                                                                                         | **CC**                                                                                                                                                                                                                                                 | **LR**                                                                                                                                                                                                     | **GRA**                                                                                                                          |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------- |
-| address the requirements of the task; present an overview with information appropriately selected, and present and adequately highlight key features/ bullet points but details may be irrelevant, inappropriate or inaccurate | arrange information and ideas coherently and there is a clear overall progression; use cohesive devices effectively, but cohesion within and/or between sentences may be faulty or mechanical; may not always use referencing clearly or appropriately | use an adequate range of vocabulary for the task; attempt to use less common vocabulary but with some inaccuracy; make some errors in spelling and/or word formation, but they do not impede communication | use a mix of simple and complex sentence forms; make some errors in grammar and punctuation but they rarely reduce communication |
+- address the requirements of the task; present an overview with information appropriately selected, and present and adequately highlight key features/ bullet points but details may be irrelevant, inappropriate or inaccurate
+- arrange information and ideas coherently and there is a clear overall progression; use cohesive devices effectively, but cohesion within and/or between sentences may be faulty or mechanical; may not always use referencing clearly or appropriately
+- use an adequate range of vocabulary for the task; attempt to use less common vocabulary but with some inaccuracy; make some errors in spelling and/or word formation, but they do not impede communication
+- use a mix of simple and complex sentence forms; make some errors in grammar and punctuation but they rarely reduce communication
 
 Rereading my report, I realize that I went a bit overboard with subordinate clauses, the sentences look a bit monotonous. But there was no error.
 
@@ -80,7 +80,7 @@ Now, just for fun, here are my own comments on the essay (I wrote these right af
 - I think I risked contradicting myself when I wrote "they can fight as hard as any man", though to be fair I did the phrase "in times of crises" to avoid over-generalization.
 - There are several parts I should have done differently. For example, I should have worded "biological differences" more specifically and written "thereby putting the public and the officers themselves in danger", among others.
 
-I handed the essay to a colleage and here's his feedback (which I love):
+I handed the essay to a colleague and here's his feedback (which I love):
 
 - "Incumbent officers" is weird phrasing (confirmed!)
 - The second paragraph is weaker. (This is interesting because I myself think the first one is weaker.)
@@ -94,6 +94,4 @@ Here's a paragraph he wrote—an excellent piece, clearly worthy of a 9. A solid
 
 **Score breakdown from BC**:
 
-| **TR** | **CC** | **LR** | **GRA** |
-| :----- | :----- | :----- | :------ |
-| 8      | 8      | 8      | 8       |
+![[images/t2-breakdown.jpg]]

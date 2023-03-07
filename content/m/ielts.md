@@ -6,6 +6,12 @@ lastmod: 2022-08-13
 enableToc: true
 ---
 
+✨ **Update**: Today 12 October, I received my score breakdown, nearly 3 months after I sent the request to British Council (BC). You can see the information added below the results.
+
+As regards the breakdown of my writing score, I wrote a separate post [here](/m/ielts-writing-breakdown.md).
+
+To learn how to request your score breakdown, read [this](/p/breakdown-request.md).
+
 Today (22 May 2022) I did my third IELTS exam (the first computer-delivered one). I took the test in 2014 (2nd time) at IDP and got 8.0 overall (L8, R8, W7, S8.5).
 
 Update (13 August 2022): I added "What I did" sections. Hope whoever reads this will learn something useful.
@@ -83,38 +89,6 @@ Part of the reason why I could write so fast is that my average typing speed is 
 - **My performance**: 317 words
 - **Predicted score**: 9.0
 
-My attempt to reproduce the essay (pretty sure it's 100% the same):
-
-> Opinions are divided on whether women should play an equal role to that of men in the police and military forces of a country. I believe that while there are certainly tasks that can be performed by women in these organizations, forcing equality in terms of roles to play is simply not practical.
->
-> On the one hand, women can certainly be active members in a country's armed forces. In the army, for example, they can be trained to become doctors and nurses, as they tend to be more gentle and resiliant. And certainly they can fight as hard as any man in times of crises, such as during the current war against Russian invasion in Ukraine, where young men and women alike are both ready to volunteer to battle. Other examples can be found in the police. Although people often associate it with fighting crimes and maintaining public security, there are situations that are better dealt with by a woman, such as helping to calm a person in distress, who has undergone a traumatic event.
->
-> However, insisting that women should take on the same role as their male counterparts is a stretch. Evidence for this can be found in military training. Due to biological differences, women are simply incapable of carrying out tasks that most men can, for instance carrying 70-100kg of weapons and other equipment. If they are enlisted anyway, they may prove to be a liability. With regard to women in the police force, one is not hard-pressed to find footage on Youtube showing female police officers failing to pursue or restrain a suspect, thereby posing a threat to the public, as well as the incumbent officers.
->
-> In conclusion, although gender equality is desired in various aspects of life and fields of profession, I do not agree that women can take on the same responsibilities as men in highly specialized circumstances as mentioned above.
-
-(317 words)
-
-Now, just for fun, here are my own comments on the essay:
-
-- I misspelled "resilient".
-- The word "incumbent" is definitely unnatural. I made a mistake I always tell my students to avoid: _Do not use a word you're not sure how to use in the test._
-- I think I risked contradicting myself when I wrote "they can fight as hard as any man", though to be fair I did the phrase "in times of crises" to avoid over-generalization.
-- There are several parts I should have done differently. For example, I should have worded "biological differences" more specifically and written "thereby putting the public and the officers themselves in danger", among others.
-- I also suspect that I haven't elaborated quite enough. In the second body paragraph I should have added one more sentence as a conclusion.
-
-I handed the essay to a colleague and here's his feedback (which I love):
-
-- "Incumbent officers" is weird phrasing (confirmed!)
-- The second paragraph is weaker. (This is interesting because I myself think the first one is weaker.)
-- "is a stretch" could have been better phrased, perhaps "impractical" or "counterproductive simply for the sake of artificial diversity".
-- "fields of profession" is weird (Though I was reassured by a quick Google search—Perhaps it has also been used by some goofball like me?)
-- Maybe you jumped into examples too quickly instead of elaborating on the general concept first.
-
-Here's a paragraph he wrote—an excellent piece, clearly worthy of a 9.
-
-> Though it is preferable to have equal representation, female presence in the military should be encouraged, but never enforced through political means. Military has always historically been a male dominated profession, with women being only an insignificant minority. Even then, they were often delegated to non-combative roles – taking up the roles of medical support or left to handling logistics. The same could be said for women in the police force, as many hand-on duties (Patrolling or arresting) are more often than not, left completely in the hand of their male colleagues. The historical precedent for this is a simple one. Men are, by biological design, physically larger and stronger than their female counterpart, so are seen as more capable of handling tasks that require physical confrontation.
-
 To be honest I'm being too optimistic about my writing scores, but hey a man has hopes. 😁
 
 ### Speaking
@@ -137,6 +111,10 @@ Quite a disillusionment, to be honest. 😅 I thought my writing answers were ve
 Anyway, the wait is over, and I've learned quite a few lessons from the experience. The next step would be to use these lessons to improve the courses I'm developing.
 
 Until next time!
+
+✨ UPDATE: Score breakdown received on October 12, 2022.
+
+![](/images/ielts-score-breakdown.jpg)
 
 ## Some thoughts
 
