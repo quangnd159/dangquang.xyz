@@ -30,6 +30,6 @@ If you're one of my IELTS students and are told to visit this place for some stu
 
 Building IELTS Writing and Speaking courses at [English House](https://ehc.edu.vn/).
 
-Learning to code while having fun in my [Playground](https://playground.dangquang.xyz). 
+Learning to code while having fun in my [Playground](https://apps.dangquang.xyz). 
 
 Learning [Chinese](/c/learnchinese) very very slowly.
