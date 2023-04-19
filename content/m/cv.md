@@ -24,6 +24,8 @@ Languages, books, Stoicism, writing, digital painting, graphic design, personal 
 
 Teaching and developing IELTS courses at [English House](https://ehc.edu.vn/) (2020 to present). So far has written 8 sets of course material.
 
+Creating [web apps](https://apps.dangquang.xyz) for learning and teaching in the classroom with the help of ChatGPT.
+
 Made simple [web sites](https://thatieltsguide.com)/[apps](https://planner.thatieltsguide.com) to support students' learning.
 
 Taught IELTS programs at YOLA (2016 to 2020). Facilitated a practicum program for TEFL trainees here in cooperation with CIEE in 2016 and 2017.
